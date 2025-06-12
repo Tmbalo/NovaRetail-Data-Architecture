@@ -16,7 +16,7 @@ A cloud-native data platform for real-time retail analytics, integrating transac
 - `docs/`: Architecture diagrams and detailed documentation.
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/<your-username>/NovaRetail-Data-Architecture.git`
+1. Clone the repository: `git clone https://github.com/Tmbalo/NovaRetail-Data-Architecture.git`
 2. Set up Azure services (free tier) and Databricks Community Edition.
 3. Run scripts in `scripts/` to replicate the pipeline.
 
