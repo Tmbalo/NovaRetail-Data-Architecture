@@ -5,7 +5,7 @@ A cloud-native data platform for real-time retail analytics, integrating transac
 **Objective**: Designed a scalable data architecture for NovaRetail, a fictional e-commerce retailer, to consolidate disparate data sources and provide real-time analytics.
 - **Data Sources**: SQL Server (orders), MongoDB (clickstream), CSV (inventory).
 - **Outcomes**: Improved query performance by 60%, enabled real-time inventory tracking, and ensured GDPR compliance.
-- **Technologies**: Azure (Synapse, Data Factory, Data Lake, Purview), Databricks (Spark), PowerDesigner, Airflow, Power BI, Python, SQL.
+- **Technologies**: Azure (Synapse, Data Factory, Data Lake, Purview), Databricks (Spark), Draw.io, Airflow, Power BI, Python, SQL.
 
 ## Architecture
 ![Architecture Diagram](docs/novaretail_data_architecure.drawio.png)
