@@ -1,501 +1,501 @@
-product_id,warehouse_id,stock_quantity,update_date
-521,2,894,2025-05-18
-551,1,35,2025-05-24
-577,7,916,2025-05-27
-520,10,50,2025-06-07
-551,9,1000,2025-06-05
-597,3,735,2025-05-20
-516,3,972,2025-05-24
-566,9,77,2025-05-31
-517,10,209,2025-06-06
-571,2,780,2025-06-08
-535,7,382,2025-05-17
-587,7,551,2025-05-18
-523,4,819,2025-05-19
-504,3,121,2025-06-11
-566,4,7,2025-05-25
-514,2,415,2025-05-30
-548,4,768,2025-06-09
-521,6,821,2025-06-05
-516,8,981,2025-05-30
-569,8,919,2025-06-07
-517,3,139,2025-06-08
-550,6,750,2025-05-28
-503,6,193,2025-05-22
-596,8,932,2025-06-05
-566,6,318,2025-06-10
-583,3,454,2025-05-16
-518,9,103,2025-05-21
-547,7,273,2025-06-12
-551,1,326,2025-05-15
-517,5,721,2025-05-30
-559,5,636,2025-05-19
-599,4,193,2025-05-16
-584,9,932,2025-05-19
-539,2,24,2025-05-14
-569,4,44,2025-06-01
-592,6,356,2025-05-18
-513,7,640,2025-05-18
-536,9,25,2025-05-19
-546,9,462,2025-05-17
-575,8,156,2025-05-14
-527,10,804,2025-05-18
-553,9,55,2025-05-26
-583,5,813,2025-06-06
-536,9,899,2025-05-30
-525,1,397,2025-06-03
-568,5,580,2025-06-08
-562,3,722,2025-05-30
-571,7,99,2025-06-05
-537,4,952,2025-06-08
-581,5,499,2025-06-02
-549,1,158,2025-06-12
-522,9,590,2025-06-10
-505,6,727,2025-05-29
-542,4,993,2025-05-27
-585,2,179,2025-05-18
-582,8,720,2025-05-19
-577,4,309,2025-05-29
-590,8,751,2025-05-23
-531,4,447,2025-05-25
-568,1,307,2025-05-31
-566,7,793,2025-05-25
-560,1,666,2025-06-11
-598,7,324,2025-05-15
-598,7,966,2025-05-18
-509,10,361,2025-06-12
-519,2,735,2025-06-07
-560,1,47,2025-05-15
-593,4,669,2025-06-09
-504,8,880,2025-05-16
-505,2,807,2025-05-23
-592,10,228,2025-06-07
-596,5,141,2025-06-01
-560,10,510,2025-06-10
-579,3,172,2025-06-11
-573,9,793,2025-06-05
-594,4,416,2025-06-04
-564,7,619,2025-06-12
-517,7,293,2025-05-29
-577,3,215,2025-06-01
-503,8,974,2025-05-16
-573,5,766,2025-05-31
-551,4,169,2025-05-29
-565,3,425,2025-06-05
-573,6,190,2025-05-25
-571,5,698,2025-05-22
-559,10,388,2025-05-19
-504,5,352,2025-05-14
-542,9,543,2025-05-26
-564,2,928,2025-06-01
-565,5,96,2025-05-30
-551,4,869,2025-05-15
-571,2,753,2025-06-05
-504,7,227,2025-06-11
-564,3,333,2025-06-08
-596,6,150,2025-06-06
-531,9,939,2025-06-09
-513,5,179,2025-05-28
-583,10,869,2025-05-17
-581,5,369,2025-06-12
-514,3,236,2025-05-24
-533,4,180,2025-06-08
-553,9,165,2025-05-30
-528,3,988,2025-06-11
-520,6,795,2025-05-18
-561,3,824,2025-05-22
-553,3,395,2025-05-21
-598,5,355,2025-05-21
-531,3,723,2025-06-12
-514,9,578,2025-06-07
-528,5,832,2025-06-03
-594,6,335,2025-05-19
-577,3,146,2025-05-29
-528,5,534,2025-06-09
-563,1,809,2025-05-29
-583,6,33,2025-06-05
-522,3,281,2025-06-12
-545,4,134,2025-05-20
-555,7,49,2025-05-20
-589,2,541,2025-05-22
-533,6,565,2025-05-28
-598,4,130,2025-05-20
-522,10,352,2025-05-28
-556,5,989,2025-05-17
-557,7,225,2025-05-28
-516,7,407,2025-06-03
-577,10,271,2025-05-22
-582,7,844,2025-06-03
-567,6,200,2025-05-26
-505,10,679,2025-06-05
-552,7,405,2025-06-04
-556,8,559,2025-05-14
-586,8,180,2025-05-18
-580,9,291,2025-05-18
-508,1,180,2025-05-20
-576,5,991,2025-06-08
-599,6,241,2025-05-15
-588,2,226,2025-05-16
-527,10,200,2025-06-06
-588,2,454,2025-06-06
-586,8,551,2025-05-26
-588,6,248,2025-05-30
-550,4,790,2025-06-07
-556,6,196,2025-06-12
-595,10,584,2025-05-17
-581,6,65,2025-05-21
-563,3,675,2025-06-07
-546,3,145,2025-05-14
-590,8,172,2025-05-26
-546,4,705,2025-06-12
-566,10,245,2025-06-10
-557,10,655,2025-06-11
-544,4,823,2025-06-04
-584,8,746,2025-06-08
-522,2,979,2025-06-08
-524,7,985,2025-05-31
-586,8,184,2025-06-01
-562,1,522,2025-05-31
-597,3,471,2025-05-17
-570,9,235,2025-05-14
-596,6,36,2025-05-20
-525,9,329,2025-06-04
-566,6,734,2025-05-21
-585,4,932,2025-06-09
-511,4,514,2025-05-27
-537,9,939,2025-06-02
-581,1,914,2025-06-02
-556,9,10,2025-06-06
-524,10,722,2025-06-01
-595,1,652,2025-05-17
-525,7,204,2025-06-12
-556,7,678,2025-05-15
-542,6,838,2025-05-31
-562,9,848,2025-06-01
-547,8,263,2025-05-28
-529,10,733,2025-05-24
-564,6,805,2025-06-12
-549,5,147,2025-05-27
-501,10,233,2025-05-24
-519,8,449,2025-05-25
-545,3,228,2025-05-19
-594,2,351,2025-05-21
-587,1,782,2025-05-26
-583,8,819,2025-06-08
-544,10,950,2025-05-21
-546,8,30,2025-05-14
-569,9,718,2025-06-07
-594,1,400,2025-06-11
-527,3,668,2025-06-09
-565,8,144,2025-06-05
-576,3,449,2025-06-07
-546,4,791,2025-05-24
-512,10,633,2025-05-22
-548,8,404,2025-05-23
-524,9,529,2025-06-12
-533,8,958,2025-05-26
-541,4,109,2025-05-16
-517,4,895,2025-05-15
-533,6,627,2025-05-21
-516,3,364,2025-06-02
-514,7,471,2025-06-04
-533,6,104,2025-06-11
-556,7,868,2025-05-23
-579,10,81,2025-05-23
-505,5,143,2025-05-30
-583,2,261,2025-06-02
-501,5,434,2025-06-05
-560,3,306,2025-05-23
-563,10,313,2025-05-24
-580,8,509,2025-06-10
-563,1,758,2025-06-05
-574,2,532,2025-05-25
-531,9,853,2025-06-06
-509,7,475,2025-05-25
-576,7,914,2025-06-04
-567,5,583,2025-06-09
-523,8,334,2025-06-03
-503,4,155,2025-06-10
-598,10,614,2025-05-23
-593,9,826,2025-05-25
-537,2,230,2025-05-16
-504,7,34,2025-06-06
-597,3,290,2025-05-19
-521,3,84,2025-06-02
-549,8,173,2025-06-09
-534,5,269,2025-05-19
-575,2,664,2025-05-14
-557,6,406,2025-05-25
-553,7,811,2025-05-24
-596,4,820,2025-05-25
-584,3,140,2025-05-21
-526,5,991,2025-05-26
-536,1,106,2025-06-01
-562,4,420,2025-06-09
-541,1,172,2025-05-31
-581,3,910,2025-05-28
-520,7,502,2025-05-16
-597,6,437,2025-05-18
-526,3,959,2025-06-02
-553,5,260,2025-05-24
-512,8,976,2025-05-27
-556,8,197,2025-05-24
-553,7,954,2025-05-16
-589,4,692,2025-06-02
-508,8,478,2025-05-27
-600,6,614,2025-06-05
-543,10,349,2025-05-19
-572,6,90,2025-05-22
-510,7,30,2025-05-22
-512,6,707,2025-05-25
-514,7,933,2025-05-25
-536,5,325,2025-05-24
-546,6,274,2025-05-26
-551,6,727,2025-05-27
-561,5,198,2025-06-06
-564,4,696,2025-05-31
-527,5,484,2025-06-10
-536,8,286,2025-06-07
-589,7,372,2025-05-17
-583,10,519,2025-05-17
-574,7,102,2025-06-12
-599,2,188,2025-05-26
-540,3,323,2025-05-27
-582,8,849,2025-05-18
-521,5,104,2025-05-31
-551,7,457,2025-05-25
-565,1,232,2025-05-14
-527,8,763,2025-06-05
-525,4,581,2025-06-04
-574,1,229,2025-06-08
-556,5,995,2025-05-26
-536,10,797,2025-05-17
-547,7,77,2025-06-06
-570,5,918,2025-05-16
-525,7,647,2025-05-14
-581,10,382,2025-05-25
-567,8,596,2025-06-10
-596,10,845,2025-05-28
-561,1,21,2025-06-09
-536,2,814,2025-05-15
-578,8,92,2025-06-01
-531,3,144,2025-05-26
-573,7,171,2025-05-16
-582,8,633,2025-05-28
-541,9,843,2025-06-06
-504,3,987,2025-06-09
-565,1,924,2025-05-30
-590,10,625,2025-05-25
-530,3,562,2025-05-15
-596,5,0,2025-05-27
-580,9,560,2025-06-12
-514,6,716,2025-05-28
-553,1,846,2025-06-07
-531,10,541,2025-06-11
-556,8,12,2025-06-09
-525,1,169,2025-05-28
-588,2,94,2025-05-29
-586,10,36,2025-05-15
-586,7,342,2025-05-29
-502,1,824,2025-05-26
-599,2,250,2025-06-10
-508,7,850,2025-05-18
-573,1,997,2025-06-02
-532,8,476,2025-06-02
-582,9,336,2025-06-05
-517,8,195,2025-05-30
-592,8,699,2025-05-19
-562,10,117,2025-06-01
-529,1,107,2025-05-28
-528,8,263,2025-06-09
-564,3,235,2025-05-22
-518,5,605,2025-05-22
-510,9,975,2025-05-30
-578,9,521,2025-06-01
-591,5,488,2025-05-27
-589,7,51,2025-06-09
-514,2,307,2025-06-12
-509,8,658,2025-06-10
-535,4,419,2025-05-17
-546,5,236,2025-05-29
-569,8,453,2025-05-19
-580,7,410,2025-06-09
-598,5,978,2025-06-10
-533,10,31,2025-06-04
-530,1,801,2025-05-24
-525,6,350,2025-06-11
-560,6,576,2025-06-09
-521,3,513,2025-06-09
-503,5,170,2025-05-16
-539,3,705,2025-05-27
-548,4,356,2025-06-09
-521,7,707,2025-05-22
-525,10,615,2025-05-16
-562,3,141,2025-05-14
-586,10,473,2025-05-23
-565,1,714,2025-06-10
-502,7,103,2025-05-19
-573,7,296,2025-05-21
-593,4,61,2025-05-15
-504,8,124,2025-05-27
-527,2,798,2025-06-09
-580,5,74,2025-05-26
-512,10,408,2025-06-05
-526,6,393,2025-06-11
-552,2,231,2025-05-23
-512,1,203,2025-05-31
-537,2,344,2025-05-24
-565,8,179,2025-06-11
-538,8,580,2025-06-06
-590,8,772,2025-06-04
-508,8,132,2025-06-02
-583,9,146,2025-05-17
-578,1,567,2025-05-15
-512,3,510,2025-05-18
-579,5,896,2025-05-20
-589,10,239,2025-06-05
-587,10,602,2025-06-04
-549,3,443,2025-06-01
-536,2,658,2025-06-08
-537,8,263,2025-05-30
-579,1,471,2025-05-30
-504,7,389,2025-05-21
-507,4,681,2025-06-01
-582,9,491,2025-06-01
-517,6,740,2025-05-14
-546,9,704,2025-06-07
-553,2,97,2025-06-08
-560,10,617,2025-05-16
-597,10,151,2025-06-08
-576,4,5,2025-05-30
-513,8,366,2025-05-14
-537,9,231,2025-06-09
-536,10,900,2025-05-22
-511,7,643,2025-06-09
-599,6,904,2025-05-18
-526,3,134,2025-05-20
-584,4,190,2025-06-02
-566,1,451,2025-06-08
-593,7,12,2025-06-01
-534,4,187,2025-05-14
-522,5,324,2025-05-21
-527,8,851,2025-06-08
-518,5,778,2025-05-16
-575,9,462,2025-05-18
-592,5,109,2025-05-25
-540,3,165,2025-05-18
-570,2,365,2025-05-16
-512,4,624,2025-06-01
-507,5,29,2025-05-23
-531,2,750,2025-06-09
-539,4,847,2025-06-07
-581,5,171,2025-05-20
-583,5,37,2025-05-21
-550,7,2,2025-06-04
-541,9,749,2025-05-24
-511,10,23,2025-05-23
-539,6,950,2025-05-31
-589,7,165,2025-06-11
-516,9,317,2025-06-11
-555,8,585,2025-05-28
-561,10,3,2025-05-20
-527,3,777,2025-06-10
-576,5,90,2025-05-17
-523,6,478,2025-05-24
-545,3,155,2025-05-14
-595,5,371,2025-05-20
-598,7,54,2025-05-15
-588,1,357,2025-06-10
-528,1,776,2025-06-09
-522,1,787,2025-06-04
-573,10,665,2025-05-22
-560,7,27,2025-06-10
-582,5,209,2025-05-27
-502,2,157,2025-05-22
-578,7,698,2025-05-19
-537,7,49,2025-05-24
-504,7,451,2025-05-28
-525,5,329,2025-06-03
-596,9,661,2025-05-21
-539,3,586,2025-06-01
-512,3,717,2025-05-26
-550,6,662,2025-05-31
-533,6,670,2025-05-16
-555,2,509,2025-05-14
-592,5,170,2025-05-30
-558,5,9,2025-05-16
-501,7,476,2025-06-02
-555,4,340,2025-05-23
-587,6,501,2025-05-29
-582,1,408,2025-05-24
-534,3,759,2025-05-24
-581,3,926,2025-06-03
-600,3,1,2025-05-29
-584,4,302,2025-05-16
-599,5,129,2025-06-09
-513,5,376,2025-06-04
-584,5,766,2025-05-18
-572,8,621,2025-05-20
-542,2,79,2025-05-20
-512,9,677,2025-05-30
-598,1,858,2025-06-06
-600,8,475,2025-05-26
-557,3,925,2025-06-05
-550,3,493,2025-05-30
-504,2,632,2025-06-01
-544,4,583,2025-05-25
-549,1,402,2025-06-04
-594,4,295,2025-05-27
-544,1,651,2025-06-04
-557,10,744,2025-05-31
-584,1,993,2025-05-25
-542,4,292,2025-06-07
-514,1,564,2025-05-28
-558,10,392,2025-06-12
-554,7,910,2025-06-03
-549,9,244,2025-06-12
-575,1,586,2025-06-05
-557,7,439,2025-05-31
-530,2,425,2025-05-30
-521,8,802,2025-06-08
-586,10,331,2025-05-19
-594,2,408,2025-06-04
-556,2,791,2025-05-31
-575,7,974,2025-06-08
-535,6,112,2025-05-30
-588,10,744,2025-05-16
-587,9,8,2025-05-14
-513,9,316,2025-06-08
-558,6,641,2025-06-02
-557,4,791,2025-05-29
-556,8,821,2025-05-21
-553,2,60,2025-05-15
-547,1,93,2025-06-07
-536,6,807,2025-05-29
-596,4,21,2025-05-24
-547,5,208,2025-05-25
-532,8,911,2025-05-28
-543,2,83,2025-05-23
-518,8,852,2025-05-19
-513,3,193,2025-05-22
-517,10,593,2025-05-24
-532,6,309,2025-05-25
-538,10,888,2025-05-30
-503,2,833,2025-06-10
-550,3,719,2025-06-10
-593,8,546,2025-05-20
-513,6,109,2025-05-29
-508,3,79,2025-05-18
-595,5,179,2025-06-02
-569,4,820,2025-05-20
-566,2,820,2025-05-25
-590,6,794,2025-05-20
-599,4,322,2025-05-19
-528,5,603,2025-05-17
-522,9,469,2025-05-28
-580,8,851,2025-06-07
-505,2,90,2025-06-06
-589,8,333,2025-05-19
-506,7,720,2025-05-26
-589,5,846,2025-05-23
-578,2,22,2025-06-12
+product_id,product_name,product_category,unit_price,warehouse_id,warehouse_name,warehouse_region,employee_count,stock_quantity,update_date
+553,TV 519,Home Appliances,322.34,4,Wiley-Rice Warehouse,APAC,30,716,2025-06-04
+567,Laptop 895,Furniture,184.64,4,Harvey PLC Warehouse,US,15,955,2025-05-25
+569,Sofa 548,Home Appliances,292.97,2,Thompson Group Warehouse,US,28,378,2025-05-20
+511,Laptop 871,Home Appliances,139.52,7,"Mcmillan, Garcia and Gonzales Warehouse",US,84,286,2025-05-21
+536,Sofa 757,Clothing,226.9,7,Cohen LLC Warehouse,APAC,46,218,2025-05-20
+567,Shirt 913,Home Appliances,303.12,9,Rodriguez-Carrillo Warehouse,EU,17,410,2025-06-08
+509,Sofa 865,Home Appliances,471.23,5,Oliver and Sons Warehouse,APAC,48,392,2025-05-31
+561,TV 677,Electronics,112.27,3,Mendoza-Baxter Warehouse,EU,47,476,2025-05-17
+537,TV 887,Home Appliances,287.13,4,Todd LLC Warehouse,APAC,83,819,2025-05-22
+559,Shirt 894,Furniture,165.21,9,"Eaton, Paul and Herring Warehouse",APAC,66,342,2025-05-31
+529,TV 202,Home Appliances,232.21,9,Russell-Griffith Warehouse,US,64,208,2025-05-15
+503,TV 634,Home Appliances,395.23,7,Bryant-Richmond Warehouse,APAC,93,177,2025-05-20
+513,Shirt 362,Furniture,283.07,2,Brown-White Warehouse,APAC,90,993,2025-05-14
+549,Shirt 418,Furniture,445.54,5,"Ramirez, Powers and King Warehouse",EU,90,95,2025-05-27
+547,Sofa 889,Furniture,31.5,7,Snyder PLC Warehouse,EU,63,847,2025-06-10
+572,TV 592,Furniture,322.31,5,Brown-Rodriguez Warehouse,US,43,17,2025-06-03
+574,TV 401,Electronics,212.9,8,Blair-Johnson Warehouse,US,61,657,2025-06-10
+524,Laptop 588,Home Appliances,315.22,1,"Carter, Cook and King Warehouse",US,95,570,2025-06-12
+548,Laptop 951,Home Appliances,20.87,3,Young and Sons Warehouse,EU,68,844,2025-05-15
+550,Shirt 850,Clothing,220.35,6,"Davis, Rocha and Gonzalez Warehouse",APAC,88,221,2025-06-02
+560,Laptop 665,Furniture,365.4,9,Allen-Taylor Warehouse,US,50,981,2025-05-30
+511,Laptop 687,Clothing,62.63,6,Wilson-Diaz Warehouse,EU,38,458,2025-06-07
+559,Shirt 688,Furniture,202.76,3,"Lawson, Tran and Barber Warehouse",US,36,627,2025-06-11
+567,Laptop 411,Furniture,118.91,10,"Figueroa, Mitchell and Guerrero Warehouse",EU,36,302,2025-06-07
+518,Shirt 685,Furniture,317.86,5,Lewis-Callahan Warehouse,EU,76,645,2025-05-25
+588,Shirt 925,Home Appliances,167.64,2,Daniels Inc Warehouse,APAC,30,834,2025-06-11
+534,Laptop 848,Clothing,279.25,9,"Hernandez, Cochran and Watson Warehouse",EU,100,641,2025-05-27
+560,Laptop 363,Clothing,418.1,3,Howe Ltd Warehouse,APAC,93,255,2025-05-15
+531,TV 623,Furniture,402.54,8,Kelley-Hill Warehouse,US,17,895,2025-05-22
+549,Sofa 438,Clothing,262.87,4,"Wilkinson, Jensen and Baldwin Warehouse",EU,64,752,2025-05-25
+600,Shirt 498,Home Appliances,472.98,3,"Burke, Fitzgerald and Holmes Warehouse",APAC,73,265,2025-05-27
+579,TV 307,Clothing,491.44,4,"Wilson, Powers and Hall Warehouse",APAC,14,130,2025-05-28
+523,Shirt 384,Furniture,378.88,9,Lucero-Carroll Warehouse,US,78,797,2025-05-21
+578,Laptop 659,Clothing,347.44,3,Thomas Group Warehouse,EU,89,950,2025-05-30
+554,TV 902,Clothing,52.65,7,Estrada Ltd Warehouse,EU,39,677,2025-05-19
+533,Laptop 434,Furniture,54.0,7,Oneill Group Warehouse,EU,36,569,2025-06-07
+587,Shirt 775,Clothing,215.49,9,"Rodriguez, Hoffman and Sullivan Warehouse",US,65,514,2025-06-04
+536,Shirt 753,Furniture,457.51,10,Wilson Inc Warehouse,EU,72,408,2025-05-19
+571,Shirt 249,Electronics,180.8,10,White LLC Warehouse,EU,34,805,2025-05-23
+572,Sofa 522,Electronics,359.87,2,Barnes-Malone Warehouse,US,76,325,2025-06-06
+578,Sofa 986,Furniture,201.91,2,Gray-Clark Warehouse,APAC,42,344,2025-06-05
+565,Laptop 407,Clothing,191.22,7,Hernandez LLC Warehouse,EU,39,450,2025-05-23
+557,Laptop 133,Clothing,314.15,6,"Reyes, Robinson and White Warehouse",US,30,345,2025-06-01
+508,Sofa 190,Electronics,270.07,7,Moreno-Herring Warehouse,US,38,444,2025-05-19
+550,Laptop 222,Furniture,40.89,10,"Goodman, Davis and Allen Warehouse",EU,42,580,2025-05-29
+526,TV 320,Furniture,250.78,3,Hampton-Davis Warehouse,EU,82,704,2025-06-06
+540,Laptop 959,Electronics,200.63,9,Mcdowell-Richard Warehouse,US,93,191,2025-06-02
+574,Shirt 686,Furniture,62.54,3,Shannon PLC Warehouse,US,53,999,2025-05-16
+508,Shirt 369,Home Appliances,111.14,5,"Leon, Hanson and Simmons Warehouse",US,29,463,2025-05-25
+579,Laptop 309,Clothing,213.3,6,Hansen-Cisneros Warehouse,APAC,83,845,2025-05-21
+563,Shirt 349,Electronics,389.14,3,"Jenkins, Wilson and Becker Warehouse",EU,36,169,2025-05-25
+592,TV 915,Clothing,75.15,4,Allison-Miller Warehouse,APAC,56,862,2025-06-09
+599,Sofa 115,Electronics,126.79,1,Riley Group Warehouse,EU,36,599,2025-05-21
+598,Laptop 886,Home Appliances,257.65,10,Fields-West Warehouse,US,70,53,2025-05-31
+501,Sofa 379,Clothing,373.47,8,Levy PLC Warehouse,EU,16,225,2025-05-24
+517,TV 733,Electronics,403.51,2,Pearson Group Warehouse,APAC,66,557,2025-06-12
+595,Shirt 256,Clothing,73.82,9,Lee-Abbott Warehouse,APAC,39,346,2025-05-17
+547,Shirt 376,Home Appliances,373.07,3,Hubbard and Sons Warehouse,APAC,47,852,2025-05-28
+530,TV 785,Electronics,397.39,8,Webb-Dean Warehouse,APAC,83,677,2025-05-16
+518,Sofa 387,Furniture,220.22,10,"Matthews, Stephens and Wiley Warehouse",APAC,22,932,2025-05-29
+536,Laptop 129,Clothing,478.58,4,Thomas Inc Warehouse,US,45,40,2025-05-25
+525,Sofa 893,Furniture,36.2,3,Hamilton-Roberts Warehouse,EU,30,402,2025-06-07
+527,Sofa 993,Home Appliances,254.22,8,"Ayers, Gomez and Moses Warehouse",EU,27,304,2025-06-08
+534,Laptop 642,Clothing,423.84,8,Smith PLC Warehouse,EU,85,602,2025-05-29
+512,Sofa 551,Home Appliances,261.58,6,Myers PLC Warehouse,US,78,778,2025-05-22
+543,TV 499,Home Appliances,338.34,1,Hunter-Lopez Warehouse,US,91,791,2025-05-18
+510,Shirt 546,Furniture,91.6,4,"Lin, Arnold and Weiss Warehouse",EU,20,115,2025-05-21
+586,Laptop 965,Electronics,367.49,10,Rivers Group Warehouse,APAC,99,956,2025-06-08
+579,Laptop 975,Electronics,396.19,10,Grimes-Navarro Warehouse,APAC,18,920,2025-05-15
+537,TV 150,Electronics,332.26,4,Diaz-Howell Warehouse,US,96,978,2025-05-24
+560,Laptop 819,Clothing,47.75,8,Johnson-Ruiz Warehouse,EU,59,804,2025-05-20
+521,Shirt 265,Clothing,352.83,9,Kemp-Arias Warehouse,EU,52,86,2025-06-12
+557,Laptop 474,Furniture,49.8,6,Simmons-Harris Warehouse,EU,50,682,2025-05-27
+505,Sofa 780,Home Appliances,168.22,10,Short-Perkins Warehouse,US,56,186,2025-06-09
+576,Laptop 599,Electronics,461.42,3,Hester-Johnson Warehouse,US,91,182,2025-06-04
+561,Shirt 621,Furniture,23.06,3,Garza and Sons Warehouse,APAC,69,641,2025-06-06
+550,Laptop 407,Clothing,242.63,7,Bass-Wheeler Warehouse,APAC,75,525,2025-06-09
+513,Shirt 208,Clothing,141.37,4,Curry-Clark Warehouse,US,60,234,2025-05-28
+542,TV 235,Furniture,375.78,2,Brown Ltd Warehouse,EU,66,640,2025-05-21
+522,Laptop 515,Home Appliances,219.16,3,Allen LLC Warehouse,EU,66,250,2025-05-19
+558,Sofa 238,Electronics,459.68,7,Lewis-Washington Warehouse,APAC,11,381,2025-05-15
+501,Laptop 391,Furniture,177.9,4,Jackson-Mcdonald Warehouse,US,58,989,2025-05-20
+505,Sofa 415,Clothing,436.41,8,"Perkins, Ross and Sanchez Warehouse",APAC,64,842,2025-05-19
+502,Shirt 912,Furniture,349.14,6,Mills-Burns Warehouse,EU,55,71,2025-06-12
+581,TV 420,Clothing,149.99,9,Haynes LLC Warehouse,EU,89,673,2025-05-20
+505,TV 918,Clothing,55.79,9,"Perkins, Bullock and Moses Warehouse",APAC,97,181,2025-06-05
+531,Shirt 638,Electronics,471.19,7,Little and Sons Warehouse,APAC,79,154,2025-05-16
+589,Shirt 796,Furniture,68.37,6,Williams LLC Warehouse,APAC,76,57,2025-06-09
+586,TV 254,Furniture,263.95,2,"Medina, Hunt and Turner Warehouse",EU,16,180,2025-06-02
+517,Sofa 178,Electronics,283.44,3,"Ward, Keith and Myers Warehouse",EU,18,53,2025-05-18
+596,Shirt 572,Clothing,341.85,1,Thomas-Gardner Warehouse,APAC,16,699,2025-06-01
+510,Sofa 180,Furniture,464.69,1,Nelson and Sons Warehouse,APAC,81,252,2025-05-22
+555,Laptop 416,Electronics,259.11,8,Knox Inc Warehouse,EU,17,533,2025-05-17
+551,Sofa 933,Home Appliances,265.7,10,Lee-Mcdowell Warehouse,EU,92,421,2025-06-06
+572,TV 866,Electronics,345.41,3,Castaneda Inc Warehouse,US,53,494,2025-05-31
+594,Shirt 659,Electronics,289.3,2,Walters and Sons Warehouse,EU,34,678,2025-05-25
+540,Laptop 435,Electronics,447.79,3,Lindsey-Mills Warehouse,US,99,438,2025-06-08
+507,Shirt 496,Electronics,444.73,10,Hill-Anderson Warehouse,APAC,72,501,2025-05-14
+592,Laptop 915,Clothing,341.46,4,Vega Inc Warehouse,EU,59,316,2025-06-09
+597,Laptop 226,Furniture,197.35,6,Herrera-Zimmerman Warehouse,APAC,95,871,2025-05-15
+547,Shirt 216,Electronics,139.66,9,Anderson-Smith Warehouse,EU,12,284,2025-06-09
+516,TV 412,Electronics,18.34,5,"Vargas, Powell and Wood Warehouse",APAC,91,753,2025-05-15
+535,Shirt 991,Electronics,379.06,3,Jarvis-Castro Warehouse,US,42,994,2025-05-27
+519,TV 985,Home Appliances,24.88,4,Mills Inc Warehouse,APAC,51,361,2025-06-07
+578,Shirt 114,Electronics,225.45,9,"Horton, Hart and Wilson Warehouse",APAC,91,383,2025-05-19
+577,Laptop 738,Home Appliances,420.7,5,"Chen, Booth and Rodriguez Warehouse",US,47,221,2025-05-27
+506,Sofa 980,Home Appliances,79.18,4,"Long, Farrell and Myers Warehouse",US,47,597,2025-05-29
+544,TV 831,Furniture,155.23,10,"Gomez, Wilkins and Chang Warehouse",APAC,31,571,2025-05-14
+536,Laptop 815,Furniture,292.99,9,Johnson-Jones Warehouse,EU,59,509,2025-06-06
+595,TV 300,Home Appliances,452.05,6,Flores-Curtis Warehouse,US,21,827,2025-06-02
+591,TV 305,Clothing,171.85,10,"Keller, Gonzalez and Sandoval Warehouse",US,94,864,2025-06-11
+552,Shirt 199,Furniture,205.64,3,"Smith, Walker and Bean Warehouse",EU,50,735,2025-05-14
+595,Shirt 362,Furniture,139.7,2,Crawford Ltd Warehouse,US,65,421,2025-06-05
+564,Shirt 252,Furniture,83.36,2,Hartman Inc Warehouse,EU,42,63,2025-06-04
+578,Sofa 491,Home Appliances,80.41,9,Moore and Sons Warehouse,US,33,443,2025-06-11
+527,Sofa 945,Clothing,431.64,2,Shields and Sons Warehouse,US,70,376,2025-05-23
+559,Sofa 300,Electronics,136.92,8,Lynch Ltd Warehouse,APAC,49,714,2025-06-07
+559,Laptop 602,Home Appliances,476.04,4,Stewart Inc Warehouse,APAC,83,182,2025-06-02
+531,Laptop 116,Clothing,236.67,2,Perez and Sons Warehouse,APAC,29,120,2025-06-04
+585,Sofa 101,Electronics,402.25,10,Cantrell PLC Warehouse,APAC,79,682,2025-05-28
+572,Sofa 774,Electronics,114.82,8,Cunningham-Martinez Warehouse,APAC,23,982,2025-06-02
+535,Laptop 954,Clothing,179.68,6,Little Group Warehouse,US,23,250,2025-05-18
+510,TV 987,Electronics,240.09,1,Williams LLC Warehouse,US,95,412,2025-06-08
+557,Sofa 307,Clothing,309.49,5,"Schultz, Wallace and Barnes Warehouse",US,98,384,2025-06-02
+580,Laptop 408,Clothing,14.51,9,Nguyen-Alvarado Warehouse,US,34,674,2025-06-02
+526,Laptop 180,Electronics,235.37,10,"Sexton, Blake and Castillo Warehouse",US,45,181,2025-05-27
+599,Sofa 594,Home Appliances,418.44,4,Snyder LLC Warehouse,EU,72,541,2025-05-17
+544,Laptop 434,Home Appliances,292.53,8,Mitchell Ltd Warehouse,EU,96,543,2025-06-08
+575,Laptop 830,Furniture,173.71,9,Patterson-Crawford Warehouse,APAC,40,589,2025-05-27
+554,TV 600,Clothing,432.49,9,Wells-Olson Warehouse,EU,31,872,2025-05-31
+581,TV 298,Home Appliances,474.2,3,"Sanders, Butler and Young Warehouse",APAC,45,229,2025-06-10
+539,Sofa 725,Home Appliances,63.76,5,"Davis, Nunez and York Warehouse",EU,80,106,2025-06-01
+515,Sofa 117,Electronics,85.37,2,Gutierrez LLC Warehouse,US,64,89,2025-05-25
+531,Laptop 395,Furniture,355.64,3,Lopez-Moreno Warehouse,US,32,479,2025-06-02
+571,Sofa 680,Furniture,112.85,9,Smith LLC Warehouse,EU,61,161,2025-06-02
+593,TV 751,Electronics,14.3,7,Williams and Sons Warehouse,US,82,685,2025-06-06
+549,TV 893,Furniture,415.98,2,"Crawford, Bird and Perry Warehouse",US,67,988,2025-06-05
+583,Shirt 205,Electronics,55.87,1,Long and Sons Warehouse,US,46,669,2025-06-10
+514,TV 404,Clothing,460.05,5,Williams Group Warehouse,APAC,59,195,2025-06-10
+503,Laptop 880,Furniture,187.47,6,Becker-Hill Warehouse,US,23,129,2025-05-25
+578,TV 713,Clothing,210.62,9,"Riddle, Jacobs and Nelson Warehouse",US,70,299,2025-05-29
+560,Shirt 785,Electronics,468.37,1,Salinas-Davis Warehouse,US,27,382,2025-06-08
+513,Sofa 135,Clothing,470.48,1,"Murphy, Oneill and Johnson Warehouse",APAC,57,391,2025-06-02
+508,TV 192,Clothing,97.19,4,"Miller, Oliver and Romero Warehouse",APAC,91,131,2025-06-07
+559,Sofa 752,Furniture,403.66,6,"Brooks, Martinez and Cruz Warehouse",APAC,36,657,2025-06-09
+584,Shirt 379,Furniture,211.25,10,Martinez-Watson Warehouse,US,82,164,2025-05-16
+522,Laptop 548,Home Appliances,329.77,5,Williams PLC Warehouse,APAC,77,549,2025-05-21
+576,Laptop 681,Home Appliances,64.94,1,Lopez PLC Warehouse,EU,79,266,2025-05-25
+585,Sofa 357,Electronics,346.53,9,Harding-Reed Warehouse,EU,13,110,2025-06-10
+577,Shirt 848,Furniture,328.62,5,Larson-Christian Warehouse,US,13,998,2025-06-03
+510,Sofa 405,Electronics,283.95,3,Fuentes Ltd Warehouse,US,68,645,2025-05-14
+569,TV 493,Clothing,285.56,10,"Horton, Taylor and Crawford Warehouse",US,96,778,2025-06-09
+564,Sofa 990,Electronics,180.44,6,Haas Group Warehouse,US,26,63,2025-05-28
+544,Laptop 816,Clothing,398.52,1,Perkins-Moran Warehouse,APAC,42,500,2025-05-29
+540,Sofa 443,Clothing,78.15,7,Collins Ltd Warehouse,APAC,74,316,2025-05-26
+537,TV 761,Clothing,443.41,6,Lynch LLC Warehouse,US,11,979,2025-06-04
+522,TV 625,Clothing,60.22,5,Hull Group Warehouse,EU,66,532,2025-06-08
+567,Shirt 770,Furniture,499.61,2,Clark-Schmidt Warehouse,APAC,37,159,2025-05-29
+530,TV 121,Home Appliances,54.61,6,Hart and Sons Warehouse,EU,41,274,2025-05-19
+528,TV 764,Home Appliances,156.51,2,Morris-Ochoa Warehouse,APAC,71,916,2025-05-28
+592,TV 807,Home Appliances,149.17,7,"Smith, Vaughn and Hall Warehouse",EU,67,967,2025-06-11
+521,Shirt 982,Furniture,449.72,7,Harvey LLC Warehouse,APAC,17,599,2025-06-07
+536,Sofa 580,Home Appliances,390.0,6,"Ferguson, Thomas and Rogers Warehouse",APAC,57,742,2025-05-23
+585,TV 444,Home Appliances,119.8,2,"Randall, Bean and Nelson Warehouse",EU,13,882,2025-05-24
+568,Shirt 620,Electronics,289.75,8,Evans-Adams Warehouse,APAC,36,871,2025-05-28
+581,Shirt 363,Furniture,155.87,3,Edwards Inc Warehouse,EU,32,379,2025-06-03
+598,Sofa 175,Electronics,344.53,6,Macdonald LLC Warehouse,EU,81,605,2025-06-09
+544,TV 857,Home Appliances,339.53,1,"Cortez, Gentry and Powell Warehouse",APAC,98,723,2025-06-01
+579,Shirt 213,Clothing,148.82,8,"Smith, Patel and Hill Warehouse",US,30,389,2025-06-11
+580,Sofa 942,Electronics,326.4,2,Davila Inc Warehouse,APAC,16,207,2025-06-08
+596,Sofa 822,Home Appliances,60.91,5,"Wallace, Orr and Henry Warehouse",EU,89,429,2025-06-09
+554,Sofa 376,Home Appliances,322.45,1,Bryant Group Warehouse,APAC,73,274,2025-05-30
+518,TV 835,Home Appliances,321.69,8,Carroll Group Warehouse,EU,51,797,2025-05-25
+590,Laptop 970,Clothing,464.16,9,Davis-Jones Warehouse,APAC,27,638,2025-06-11
+532,Sofa 717,Electronics,398.24,4,"Stevenson, Garcia and Mason Warehouse",APAC,13,631,2025-05-26
+515,TV 467,Home Appliances,130.47,1,Snyder and Sons Warehouse,APAC,37,242,2025-05-17
+587,Shirt 612,Electronics,51.16,2,Hodge Group Warehouse,APAC,100,989,2025-06-01
+582,TV 406,Furniture,302.9,7,Hall Group Warehouse,US,67,432,2025-05-21
+525,Sofa 785,Clothing,322.52,6,Leon-Wilkins Warehouse,US,92,505,2025-05-25
+518,Shirt 365,Home Appliances,187.91,10,Wilson Ltd Warehouse,US,56,175,2025-05-14
+554,Shirt 859,Electronics,393.73,8,"Rogers, Ross and Perez Warehouse",EU,30,499,2025-05-27
+581,Laptop 319,Furniture,11.5,2,Morris-Smith Warehouse,EU,86,492,2025-05-25
+584,Sofa 237,Furniture,393.54,10,Fleming-Blackwell Warehouse,EU,29,924,2025-05-24
+531,Sofa 227,Home Appliances,98.08,7,Schmidt-Brown Warehouse,EU,82,223,2025-06-11
+554,Sofa 633,Clothing,316.58,3,Ramirez-Leon Warehouse,EU,44,568,2025-05-28
+582,Sofa 534,Home Appliances,295.5,8,"Espinoza, Patterson and Johnson Warehouse",EU,15,417,2025-05-30
+570,Shirt 810,Home Appliances,429.89,3,Orozco-Howard Warehouse,APAC,80,55,2025-06-02
+521,TV 856,Clothing,59.88,7,Brooks-Green Warehouse,APAC,38,491,2025-05-23
+554,TV 518,Furniture,188.54,9,"Cole, Chavez and Cunningham Warehouse",EU,53,58,2025-06-02
+574,Laptop 648,Clothing,226.62,8,Mcintyre-Pratt Warehouse,EU,96,63,2025-05-28
+582,TV 179,Clothing,103.6,1,Fernandez-Jones Warehouse,EU,79,835,2025-05-21
+575,Sofa 878,Electronics,140.38,9,"Martin, Smith and Vega Warehouse",US,42,662,2025-05-16
+526,Sofa 613,Furniture,77.11,5,Johnson-Duarte Warehouse,EU,41,754,2025-05-22
+536,TV 977,Home Appliances,292.79,1,"Roberts, Price and Clark Warehouse",US,41,976,2025-05-30
+534,Sofa 544,Home Appliances,465.06,6,"Little, Vargas and Jackson Warehouse",APAC,82,918,2025-06-07
+596,Sofa 649,Furniture,499.27,4,"Stanton, Edwards and Ferguson Warehouse",EU,77,635,2025-05-17
+577,TV 746,Clothing,36.74,9,"Williams, Henderson and Murphy Warehouse",US,69,131,2025-06-09
+546,Shirt 631,Furniture,267.38,7,Jones-Richardson Warehouse,US,95,511,2025-06-06
+586,TV 725,Clothing,87.88,6,Carr-Carr Warehouse,EU,62,360,2025-05-27
+581,Shirt 297,Home Appliances,349.57,9,"Wilson, Newman and Miller Warehouse",US,63,728,2025-05-29
+521,TV 409,Furniture,425.48,1,"Lopez, Matthews and Brown Warehouse",US,65,393,2025-05-28
+563,Shirt 288,Electronics,117.96,3,Winters-Snow Warehouse,APAC,21,269,2025-05-23
+540,Sofa 629,Home Appliances,97.41,10,"Blake, Day and Jones Warehouse",EU,63,382,2025-06-08
+502,Laptop 441,Home Appliances,396.6,3,Hughes and Sons Warehouse,EU,31,559,2025-05-23
+551,Sofa 348,Electronics,208.76,1,Holt Inc Warehouse,APAC,36,85,2025-06-01
+526,Sofa 993,Furniture,434.88,6,"Washington, Carroll and Galloway Warehouse",EU,26,778,2025-05-18
+568,Laptop 108,Home Appliances,240.35,9,Johnson-Cross Warehouse,US,40,859,2025-05-15
+592,Laptop 709,Clothing,488.11,9,"Price, Ramirez and Mann Warehouse",US,31,318,2025-05-19
+521,Shirt 497,Furniture,397.41,10,"Davis, Daniels and Manning Warehouse",US,38,129,2025-06-12
+546,Shirt 882,Furniture,426.88,2,Barnett and Sons Warehouse,EU,53,483,2025-06-01
+589,TV 820,Home Appliances,296.07,5,Hart-Jones Warehouse,US,53,697,2025-05-22
+575,Laptop 843,Furniture,53.18,10,Atkinson-Palmer Warehouse,APAC,35,878,2025-05-26
+527,TV 823,Electronics,60.75,3,Massey-Rogers Warehouse,US,44,479,2025-05-31
+502,Shirt 609,Electronics,278.8,1,Bailey-Bowman Warehouse,APAC,31,963,2025-05-24
+586,Shirt 811,Clothing,88.01,6,Meyers PLC Warehouse,APAC,35,120,2025-05-19
+514,TV 646,Furniture,429.96,7,Reeves Ltd Warehouse,EU,41,81,2025-06-02
+599,Sofa 221,Home Appliances,436.55,6,Villarreal Inc Warehouse,EU,96,195,2025-05-15
+566,Sofa 266,Furniture,174.09,4,Sanders Inc Warehouse,APAC,21,218,2025-06-04
+507,Shirt 809,Home Appliances,476.15,4,Davis PLC Warehouse,EU,25,389,2025-05-16
+579,TV 422,Clothing,77.27,7,Mullins-Lopez Warehouse,APAC,91,694,2025-05-24
+581,Laptop 546,Electronics,486.99,8,Jensen-White Warehouse,APAC,90,908,2025-05-24
+566,Shirt 717,Home Appliances,239.08,3,Gonzalez-Jones Warehouse,EU,13,576,2025-05-23
+557,Shirt 857,Home Appliances,38.96,2,Jones-Caldwell Warehouse,APAC,19,726,2025-05-23
+513,Sofa 668,Furniture,279.92,7,Andrews and Sons Warehouse,US,100,177,2025-06-09
+554,Sofa 129,Furniture,428.82,2,Benton-Austin Warehouse,US,47,228,2025-06-01
+525,Shirt 532,Home Appliances,408.13,10,Khan LLC Warehouse,US,46,797,2025-06-03
+525,Laptop 266,Home Appliances,459.4,9,Scott-Bates Warehouse,APAC,75,70,2025-05-19
+540,Laptop 997,Clothing,357.72,9,Spence-Conner Warehouse,APAC,53,93,2025-05-19
+540,Shirt 342,Home Appliances,462.3,5,Mckinney Inc Warehouse,EU,100,306,2025-05-18
+513,Laptop 473,Home Appliances,279.13,7,Cameron-Ellis Warehouse,US,52,826,2025-06-04
+503,Laptop 114,Furniture,254.13,7,Nichols-Ayala Warehouse,US,82,667,2025-05-14
+540,Sofa 995,Furniture,445.78,5,Charles-Sanders Warehouse,US,98,199,2025-05-15
+528,Laptop 365,Home Appliances,203.72,4,Welch and Sons Warehouse,APAC,94,548,2025-06-02
+548,Sofa 792,Clothing,261.52,10,Wilson Ltd Warehouse,EU,70,649,2025-05-19
+562,Shirt 729,Electronics,335.01,1,Lynch and Sons Warehouse,EU,16,619,2025-05-28
+516,TV 676,Home Appliances,255.05,5,Harrington Inc Warehouse,EU,86,433,2025-05-23
+514,Shirt 759,Clothing,143.46,5,"Brown, Wilson and Mann Warehouse",APAC,93,807,2025-05-31
+521,Sofa 766,Home Appliances,383.74,10,Hanna Group Warehouse,US,36,50,2025-06-02
+561,Sofa 730,Home Appliances,240.21,5,"Miller, Lopez and Matthews Warehouse",EU,32,306,2025-05-31
+592,Sofa 816,Clothing,323.74,3,"Burke, Leach and Moody Warehouse",US,26,497,2025-05-21
+583,Sofa 361,Home Appliances,181.32,9,Mosley LLC Warehouse,APAC,54,89,2025-05-20
+542,Shirt 326,Clothing,67.99,7,Lopez Inc Warehouse,APAC,75,138,2025-05-22
+594,TV 568,Furniture,347.46,1,Gibson-Ramirez Warehouse,APAC,34,432,2025-06-06
+557,Laptop 353,Home Appliances,371.32,9,"Gonzalez, Bennett and Pope Warehouse",EU,41,951,2025-05-15
+504,Sofa 586,Furniture,304.54,5,Jones Ltd Warehouse,EU,46,326,2025-06-09
+533,Sofa 972,Home Appliances,327.18,6,Grimes and Sons Warehouse,EU,62,225,2025-05-24
+594,Laptop 790,Electronics,408.54,1,"Vincent, King and Williams Warehouse",US,92,522,2025-06-09
+531,TV 415,Furniture,455.52,1,"Johnson, Love and Parker Warehouse",APAC,70,558,2025-05-27
+589,Sofa 507,Clothing,463.67,4,Decker-Valdez Warehouse,APAC,69,988,2025-06-12
+540,Sofa 560,Clothing,450.55,5,Mccoy-Briggs Warehouse,APAC,95,345,2025-05-27
+548,Sofa 749,Home Appliances,182.99,7,Gonzales Ltd Warehouse,US,15,71,2025-06-03
+532,Sofa 690,Electronics,421.07,9,"Taylor, Garrison and Lewis Warehouse",APAC,71,125,2025-06-11
+576,Laptop 789,Electronics,263.9,10,"Schmidt, Figueroa and Wilcox Warehouse",US,14,507,2025-06-02
+569,Laptop 298,Clothing,281.64,4,Harrington-Butler Warehouse,US,24,90,2025-05-19
+536,TV 537,Clothing,398.41,8,"Yang, Aguirre and Kelly Warehouse",APAC,26,474,2025-06-06
+547,Sofa 170,Furniture,448.33,2,Bradshaw Group Warehouse,US,79,957,2025-05-27
+531,Laptop 501,Furniture,409.22,3,"Nguyen, Austin and Santos Warehouse",APAC,41,656,2025-05-31
+592,TV 337,Clothing,78.9,8,Craig-Quinn Warehouse,US,12,908,2025-05-27
+571,Sofa 412,Furniture,456.35,6,Christian-Glass Warehouse,US,11,228,2025-05-16
+554,Shirt 196,Clothing,89.47,6,"Craig, Simon and Fuller Warehouse",EU,83,926,2025-06-02
+533,Sofa 411,Furniture,358.09,10,Jones Group Warehouse,APAC,64,651,2025-05-19
+512,Shirt 591,Electronics,392.89,2,"Garcia, Mayo and Parker Warehouse",EU,47,402,2025-05-16
+516,Shirt 940,Electronics,143.93,9,Carr Inc Warehouse,APAC,48,306,2025-05-15
+524,Shirt 741,Furniture,27.69,9,Diaz-Armstrong Warehouse,US,12,457,2025-05-30
+520,TV 774,Furniture,300.2,3,Collins PLC Warehouse,US,87,116,2025-06-02
+535,TV 664,Home Appliances,162.06,9,"Smith, Wood and Warner Warehouse",APAC,51,471,2025-06-09
+600,Shirt 134,Electronics,403.48,4,Peters-Blanchard Warehouse,APAC,17,400,2025-06-11
+546,TV 236,Clothing,447.67,7,"Thomas, Chen and Watson Warehouse",EU,21,620,2025-06-05
+593,Shirt 515,Home Appliances,426.26,3,Maddox-Daugherty Warehouse,US,63,641,2025-05-23
+589,Laptop 348,Electronics,364.08,10,Johnson Ltd Warehouse,APAC,20,252,2025-06-08
+503,Shirt 188,Furniture,308.14,2,"Anderson, Wood and Ross Warehouse",US,28,998,2025-05-15
+540,Sofa 473,Electronics,330.55,3,"Rhodes, Wallace and Matthews Warehouse",EU,16,360,2025-05-25
+569,Shirt 384,Furniture,69.25,9,Brown-Carr Warehouse,EU,86,775,2025-05-21
+503,Shirt 254,Clothing,154.7,5,Valencia-Maynard Warehouse,EU,44,474,2025-06-02
+562,TV 337,Electronics,215.09,3,Finley-Martin Warehouse,EU,44,895,2025-05-21
+591,Sofa 858,Home Appliances,262.25,3,Smith-George Warehouse,US,73,471,2025-05-19
+511,Sofa 402,Home Appliances,173.29,2,Gates-Mccann Warehouse,EU,54,71,2025-06-10
+589,Shirt 535,Home Appliances,344.1,9,Wheeler PLC Warehouse,US,65,188,2025-05-15
+562,Sofa 943,Clothing,468.76,9,"Christian, Reed and Bryan Warehouse",US,94,188,2025-05-20
+595,Laptop 908,Clothing,396.32,7,Harris-Castillo Warehouse,EU,26,489,2025-05-25
+537,Laptop 885,Furniture,419.58,7,"Jackson, Shea and Meadows Warehouse",EU,54,491,2025-05-18
+551,Laptop 892,Home Appliances,17.93,9,Massey-Davis Warehouse,APAC,11,232,2025-06-06
+568,Laptop 875,Clothing,279.32,1,Cox-Lopez Warehouse,EU,89,447,2025-05-22
+508,Shirt 272,Home Appliances,97.49,1,Mason PLC Warehouse,US,52,503,2025-05-16
+591,Shirt 613,Clothing,212.36,2,"Chambers, Price and Taylor Warehouse",EU,14,865,2025-05-28
+576,TV 347,Clothing,353.22,9,Nunez PLC Warehouse,US,15,856,2025-05-26
+513,TV 488,Clothing,166.95,3,Coleman-Coleman Warehouse,APAC,24,387,2025-05-16
+569,Shirt 325,Electronics,201.3,6,"Fields, Nguyen and Sawyer Warehouse",APAC,22,176,2025-05-30
+532,Shirt 311,Furniture,166.32,10,King-Mccormick Warehouse,APAC,25,633,2025-06-12
+555,TV 929,Home Appliances,89.94,4,Roberson-Williams Warehouse,US,17,390,2025-06-04
+525,Laptop 582,Furniture,92.55,3,Johnson-Green Warehouse,US,43,155,2025-05-18
+505,Laptop 208,Electronics,401.19,3,Bush-Chase Warehouse,US,81,807,2025-05-29
+535,Laptop 694,Home Appliances,406.7,10,Lee-Reeves Warehouse,US,74,587,2025-05-17
+554,TV 572,Furniture,295.52,5,Garner LLC Warehouse,APAC,66,90,2025-05-19
+534,Sofa 108,Clothing,348.08,1,Jones and Sons Warehouse,US,63,260,2025-06-10
+576,Shirt 380,Clothing,443.99,9,"Beasley, Houston and Owens Warehouse",APAC,79,703,2025-05-18
+592,Laptop 500,Electronics,493.54,4,Collins-Coleman Warehouse,US,100,664,2025-05-28
+512,TV 241,Clothing,310.39,6,Murphy and Sons Warehouse,APAC,41,493,2025-05-25
+579,Shirt 199,Furniture,499.36,8,Smith Ltd Warehouse,APAC,36,658,2025-06-06
+598,Sofa 699,Electronics,24.0,4,Joseph-Sanchez Warehouse,EU,54,882,2025-05-14
+527,Shirt 707,Clothing,428.26,6,"Stephenson, Adams and Smith Warehouse",US,80,210,2025-05-24
+502,Sofa 275,Electronics,307.83,1,Blake and Sons Warehouse,EU,34,665,2025-06-07
+556,Laptop 482,Clothing,472.11,9,Lopez-Long Warehouse,US,34,396,2025-05-27
+563,Shirt 493,Home Appliances,13.41,10,"Anthony, Mcdonald and Saunders Warehouse",APAC,17,358,2025-06-08
+563,Laptop 566,Home Appliances,123.05,8,Wilson LLC Warehouse,APAC,32,757,2025-06-03
+509,Sofa 778,Electronics,288.29,5,Romero Ltd Warehouse,US,27,152,2025-05-27
+514,Laptop 298,Electronics,64.53,6,Russell Inc Warehouse,APAC,37,213,2025-05-16
+566,Laptop 117,Electronics,223.2,8,Morris LLC Warehouse,APAC,62,365,2025-05-20
+508,Sofa 400,Home Appliances,479.87,5,Jackson Group Warehouse,EU,59,992,2025-05-25
+536,Sofa 922,Furniture,177.5,3,Wolfe-Smith Warehouse,EU,25,656,2025-06-02
+582,Shirt 223,Furniture,438.89,2,Griffith-Adams Warehouse,US,20,801,2025-06-12
+597,TV 597,Home Appliances,36.27,2,Hendrix-Fox Warehouse,APAC,83,262,2025-05-16
+566,Shirt 355,Clothing,480.76,7,Moore LLC Warehouse,US,55,320,2025-05-17
+567,Sofa 171,Home Appliances,359.34,9,Rivera-Dyer Warehouse,EU,96,883,2025-05-16
+586,Laptop 798,Clothing,115.31,10,Mata-Edwards Warehouse,EU,57,474,2025-05-24
+522,Shirt 585,Home Appliances,220.55,1,Rodriguez Ltd Warehouse,EU,57,526,2025-05-31
+598,TV 682,Home Appliances,476.9,1,Scott-Wells Warehouse,APAC,17,487,2025-06-09
+582,Sofa 453,Electronics,390.99,3,"Gonzalez, Higgins and Rodriguez Warehouse",US,88,751,2025-05-14
+592,Shirt 623,Electronics,50.44,3,"Williams, Garcia and Barnes Warehouse",US,76,219,2025-05-16
+536,Laptop 663,Electronics,223.65,10,"Evans, Wood and Hamilton Warehouse",US,19,320,2025-05-21
+560,TV 124,Clothing,58.47,1,"Burke, Forbes and Webb Warehouse",APAC,21,992,2025-06-12
+542,Laptop 844,Furniture,396.65,10,Dougherty-Davidson Warehouse,EU,37,896,2025-05-30
+569,Sofa 896,Electronics,237.81,4,"Williams, Bailey and Jacobs Warehouse",EU,57,450,2025-05-22
+581,Laptop 943,Furniture,482.03,10,Allen LLC Warehouse,APAC,55,790,2025-05-16
+584,Shirt 919,Home Appliances,142.62,3,Woods Ltd Warehouse,APAC,74,593,2025-06-10
+521,TV 216,Clothing,189.21,10,"Goodman, Gay and Hansen Warehouse",EU,85,313,2025-06-05
+568,Laptop 209,Clothing,422.81,4,Santana-Moore Warehouse,APAC,86,696,2025-05-25
+523,Shirt 630,Furniture,443.4,8,Baker Inc Warehouse,APAC,66,949,2025-05-28
+551,Sofa 916,Furniture,151.6,3,Galloway LLC Warehouse,APAC,66,42,2025-05-22
+594,Shirt 199,Home Appliances,286.76,10,"Higgins, Medina and Moss Warehouse",EU,86,613,2025-05-28
+532,Shirt 641,Furniture,438.63,10,Perez-Whitaker Warehouse,EU,38,435,2025-06-04
+586,Shirt 282,Furniture,433.29,3,"Vasquez, Brown and Crawford Warehouse",US,71,128,2025-06-04
+570,TV 619,Clothing,241.44,5,"Martinez, Allen and Miles Warehouse",US,19,243,2025-05-23
+569,Laptop 549,Electronics,197.55,4,Johnson and Sons Warehouse,APAC,49,646,2025-05-21
+571,Shirt 712,Clothing,380.3,6,"Norris, Deleon and Walker Warehouse",EU,67,774,2025-05-15
+582,Sofa 780,Clothing,375.28,8,Cruz Ltd Warehouse,APAC,66,710,2025-06-05
+509,TV 815,Furniture,314.59,1,Lee Group Warehouse,US,78,778,2025-05-14
+517,Laptop 343,Clothing,182.86,3,"Armstrong, Martin and Morales Warehouse",EU,10,678,2025-05-17
+547,Shirt 415,Electronics,338.7,1,Glass-Bennett Warehouse,APAC,76,477,2025-06-01
+511,Sofa 608,Clothing,494.65,6,Vargas LLC Warehouse,EU,52,118,2025-06-06
+595,Shirt 897,Home Appliances,15.79,5,"Jones, Campos and Roy Warehouse",US,89,806,2025-05-15
+568,Shirt 643,Furniture,426.57,10,"Daniels, Mccarty and Sanchez Warehouse",APAC,44,915,2025-05-30
+527,Shirt 769,Furniture,358.76,4,"Anderson, Martinez and Taylor Warehouse",APAC,93,460,2025-05-25
+565,Laptop 305,Home Appliances,437.98,3,Perry Ltd Warehouse,EU,22,860,2025-05-27
+538,TV 144,Clothing,168.31,9,"Holmes, Smith and Salazar Warehouse",EU,41,320,2025-06-06
+596,TV 645,Furniture,378.39,8,Walters Group Warehouse,EU,31,365,2025-05-31
+578,Shirt 741,Home Appliances,347.8,3,Clark Inc Warehouse,APAC,82,273,2025-05-17
+576,TV 151,Electronics,171.59,2,Turner Ltd Warehouse,US,45,298,2025-05-24
+541,Sofa 673,Electronics,250.41,7,Patton and Sons Warehouse,APAC,35,224,2025-05-25
+596,Laptop 531,Clothing,405.05,9,Rodriguez Group Warehouse,EU,63,674,2025-06-12
+563,Shirt 736,Clothing,121.53,5,Miller and Sons Warehouse,US,93,676,2025-05-24
+578,Sofa 762,Clothing,374.06,7,"Kramer, Collins and Bowen Warehouse",EU,12,387,2025-06-08
+593,TV 592,Electronics,443.44,6,Wilson-Shaw Warehouse,US,81,674,2025-06-02
+538,Laptop 422,Electronics,140.1,9,Hoffman PLC Warehouse,APAC,32,359,2025-05-15
+560,TV 787,Clothing,25.0,2,"Burns, Williams and Huber Warehouse",US,46,337,2025-06-01
+532,Shirt 808,Home Appliances,120.04,1,"Zimmerman, Pearson and Cole Warehouse",APAC,39,33,2025-06-11
+519,TV 849,Electronics,12.13,3,Young LLC Warehouse,APAC,15,476,2025-06-10
+565,Shirt 586,Home Appliances,429.67,10,"Walls, Smith and Escobar Warehouse",US,23,420,2025-05-29
+503,TV 217,Furniture,161.47,2,"Brooks, James and Cross Warehouse",APAC,76,189,2025-06-08
+525,Sofa 831,Clothing,270.47,2,Parker LLC Warehouse,EU,38,866,2025-05-18
+554,Laptop 845,Furniture,108.28,5,Murray LLC Warehouse,US,16,278,2025-05-15
+546,Shirt 855,Home Appliances,141.51,8,"Clark, Dixon and Murray Warehouse",US,18,649,2025-05-19
+593,Laptop 928,Home Appliances,461.31,1,"Walker, Rodriguez and Mcdonald Warehouse",EU,80,969,2025-06-01
+597,Laptop 487,Clothing,251.54,1,Ramirez and Sons Warehouse,US,43,408,2025-06-05
+536,Shirt 564,Home Appliances,151.52,6,"Mcmillan, Taylor and Walker Warehouse",US,82,393,2025-05-28
+577,Sofa 867,Furniture,497.34,8,Johnson Inc Warehouse,EU,62,885,2025-05-16
+506,Shirt 194,Electronics,217.98,2,Clark-Romero Warehouse,US,10,812,2025-05-21
+554,Sofa 168,Electronics,334.97,3,Blackburn PLC Warehouse,APAC,41,519,2025-05-24
+526,TV 531,Home Appliances,150.56,7,Skinner-Gillespie Warehouse,US,44,249,2025-06-12
+549,TV 880,Home Appliances,108.88,10,Horton-Martinez Warehouse,APAC,49,53,2025-06-12
+544,TV 343,Clothing,459.08,7,Patterson-Mills Warehouse,US,59,980,2025-06-09
+556,Laptop 587,Electronics,420.8,10,Fischer-Shaw Warehouse,US,13,908,2025-05-21
+526,Laptop 816,Furniture,30.03,9,Garcia-Atkinson Warehouse,APAC,70,647,2025-05-26
+540,Laptop 450,Home Appliances,243.69,9,Cohen and Sons Warehouse,US,16,984,2025-05-21
+511,Sofa 784,Furniture,200.17,7,Martin Ltd Warehouse,APAC,82,367,2025-06-12
+576,Sofa 338,Clothing,23.9,8,"Olsen, Shaw and Daniels Warehouse",EU,11,346,2025-06-12
+562,Sofa 851,Electronics,91.81,8,Thompson Group Warehouse,US,65,745,2025-06-06
+507,Sofa 806,Clothing,89.66,2,Kim-Russo Warehouse,APAC,64,192,2025-06-03
+564,Shirt 488,Clothing,32.33,4,Hill Group Warehouse,US,52,368,2025-06-08
+515,Shirt 335,Furniture,481.91,8,Romero-Ball Warehouse,EU,55,195,2025-05-15
+501,Shirt 977,Electronics,455.67,9,Wagner-Brandt Warehouse,US,46,283,2025-06-12
+533,Laptop 189,Home Appliances,296.27,1,"Torres, Hensley and Chang Warehouse",EU,34,416,2025-05-19
+593,Shirt 426,Home Appliances,341.44,7,Jackson-Gentry Warehouse,EU,74,61,2025-05-25
+532,TV 946,Electronics,133.66,10,Becker Group Warehouse,US,98,378,2025-05-30
+554,Shirt 302,Electronics,352.82,9,"Haley, Watkins and Gray Warehouse",US,68,130,2025-05-21
+554,TV 925,Clothing,446.56,3,Perry-Campbell Warehouse,US,28,981,2025-05-30
+567,TV 716,Home Appliances,105.98,7,Flores LLC Warehouse,APAC,54,136,2025-06-03
+552,Laptop 360,Home Appliances,210.17,6,Cole-Arias Warehouse,US,78,776,2025-06-08
+566,Sofa 540,Clothing,120.4,10,Ponce Group Warehouse,US,39,16,2025-06-10
+579,Laptop 764,Furniture,361.03,7,Arnold Group Warehouse,APAC,37,924,2025-05-20
+515,Laptop 640,Electronics,248.61,6,Nelson-Gilbert Warehouse,APAC,39,756,2025-05-16
+553,Laptop 232,Electronics,472.05,7,Taylor-Pope Warehouse,APAC,34,544,2025-05-29
+569,Shirt 876,Home Appliances,458.09,9,Wallace-Hansen Warehouse,EU,29,482,2025-06-12
+590,Shirt 803,Home Appliances,328.68,10,Perez Group Warehouse,EU,89,800,2025-05-28
+574,Laptop 637,Electronics,117.84,5,"Hopkins, Estes and Thompson Warehouse",APAC,71,5,2025-05-31
+529,Laptop 306,Clothing,27.09,8,"Henderson, Duran and Carroll Warehouse",APAC,99,595,2025-06-03
+520,Shirt 238,Furniture,163.66,2,Turner-Jones Warehouse,US,79,419,2025-05-29
+536,Sofa 847,Furniture,336.24,8,"Lewis, Allen and Johnson Warehouse",EU,53,582,2025-05-31
+576,Sofa 312,Home Appliances,260.13,2,Peterson-Torres Warehouse,EU,86,148,2025-06-03
+567,Sofa 573,Electronics,111.91,2,Lawson Group Warehouse,US,77,565,2025-06-07
+522,Shirt 704,Furniture,498.57,9,"Webster, Turner and Phillips Warehouse",APAC,36,597,2025-05-20
+514,Shirt 724,Furniture,305.14,9,"Cruz, Schaefer and Watts Warehouse",EU,43,117,2025-06-09
+584,Shirt 379,Furniture,197.25,8,Oconnor-Ayala Warehouse,APAC,25,875,2025-06-07
+552,TV 883,Furniture,383.16,5,Clark-Perez Warehouse,EU,90,241,2025-05-14
+568,Laptop 978,Furniture,91.88,7,Schmidt LLC Warehouse,APAC,75,757,2025-06-05
+589,Shirt 849,Electronics,456.92,5,Harris LLC Warehouse,APAC,41,893,2025-06-12
+526,TV 100,Home Appliances,41.79,8,"Leonard, Watson and Smith Warehouse",EU,66,650,2025-06-08
+593,TV 381,Furniture,26.34,5,Johnson-Horn Warehouse,EU,10,511,2025-05-24
+540,Shirt 468,Electronics,106.36,2,Gonzalez and Sons Warehouse,EU,67,802,2025-06-06
+532,Laptop 618,Electronics,478.52,2,"Rose, Adams and Lyons Warehouse",US,35,995,2025-05-21
+548,Laptop 156,Home Appliances,331.99,3,Gonzalez PLC Warehouse,EU,25,302,2025-05-19
+595,Shirt 334,Home Appliances,351.28,9,Ball-Oconnell Warehouse,EU,37,827,2025-06-04
+515,TV 453,Home Appliances,186.57,9,"West, Jones and Swanson Warehouse",US,29,183,2025-06-10
+512,Laptop 409,Home Appliances,316.41,4,"Gray, Duran and Barr Warehouse",US,97,111,2025-05-16
+525,Laptop 971,Clothing,248.22,4,Kirk-Anderson Warehouse,APAC,70,87,2025-05-21
+583,Sofa 641,Furniture,212.52,6,Barnes PLC Warehouse,US,100,634,2025-05-15
+585,Shirt 763,Home Appliances,353.18,1,"Horton, Love and Ray Warehouse",US,64,84,2025-05-25
+562,TV 633,Electronics,449.73,1,Wiggins Group Warehouse,US,80,82,2025-05-26
+526,Shirt 912,Home Appliances,448.69,10,Hernandez-Alvarez Warehouse,APAC,10,160,2025-05-19
+556,Shirt 567,Clothing,53.96,8,Smith LLC Warehouse,APAC,74,921,2025-05-26
+573,TV 772,Electronics,172.75,7,Williams and Sons Warehouse,EU,84,900,2025-06-11
+522,TV 401,Furniture,137.35,7,Lara Group Warehouse,EU,75,507,2025-05-19
+587,TV 696,Furniture,400.23,5,Mathis-Rodriguez Warehouse,US,63,395,2025-06-05
+510,Sofa 832,Clothing,298.63,9,Frye-Davis Warehouse,APAC,21,966,2025-06-07
+545,Laptop 603,Home Appliances,130.1,4,Young Group Warehouse,EU,89,466,2025-05-20
+520,Sofa 432,Clothing,193.55,1,Frost and Sons Warehouse,US,45,939,2025-05-16
+510,Sofa 355,Clothing,64.19,10,Walker PLC Warehouse,EU,82,149,2025-05-29
+507,Sofa 799,Clothing,185.48,1,Crawford-Bautista Warehouse,APAC,100,968,2025-06-08
+509,Sofa 211,Clothing,192.63,9,Morrow-Ray Warehouse,US,83,524,2025-06-08
+503,Shirt 197,Electronics,157.46,10,Randall-Maddox Warehouse,EU,44,30,2025-05-23
+517,Laptop 747,Furniture,83.45,3,"Skinner, Rollins and Nelson Warehouse",EU,86,934,2025-05-14
+502,Shirt 848,Electronics,260.38,1,"Romero, Roberson and Bailey Warehouse",EU,48,940,2025-06-07
+596,TV 267,Furniture,259.47,4,"Lewis, Smith and Torres Warehouse",US,88,563,2025-05-20
+525,Sofa 839,Furniture,449.57,4,Kelly Group Warehouse,APAC,15,873,2025-06-11
+576,Laptop 208,Furniture,260.59,4,"Gardner, Hicks and Herrera Warehouse",EU,25,270,2025-05-15
+505,Laptop 352,Electronics,326.82,2,Aguilar PLC Warehouse,APAC,11,506,2025-05-22
+515,TV 364,Electronics,489.19,6,Parrish Group Warehouse,US,75,724,2025-05-22
+554,TV 534,Home Appliances,312.52,2,Merritt-Miller Warehouse,APAC,39,197,2025-06-08
+572,Sofa 569,Home Appliances,28.57,9,"Thomas, Reed and Andersen Warehouse",APAC,29,697,2025-05-24
+520,Laptop 472,Clothing,72.4,9,Tucker-Trujillo Warehouse,EU,65,103,2025-05-28
+511,TV 120,Furniture,293.34,6,"Hayes, Davis and Wade Warehouse",US,48,281,2025-05-30
+551,TV 566,Furniture,497.97,8,Shea-Brown Warehouse,APAC,15,783,2025-06-07
+565,TV 960,Home Appliances,41.89,10,Malone and Sons Warehouse,APAC,38,264,2025-06-04
+547,TV 487,Clothing,36.99,1,Dixon-Richardson Warehouse,US,53,851,2025-06-02
+519,Laptop 914,Electronics,203.86,6,Odom Ltd Warehouse,EU,61,123,2025-05-22
+597,TV 925,Electronics,352.84,10,"Johnson, Mueller and Kelly Warehouse",EU,83,124,2025-05-30
+519,Sofa 196,Home Appliances,481.66,2,Faulkner and Sons Warehouse,EU,25,948,2025-06-01
+509,TV 254,Clothing,272.5,4,"Ware, Dixon and Freeman Warehouse",APAC,49,180,2025-05-22
+565,Laptop 545,Electronics,269.2,4,"Smith, Steele and Hunter Warehouse",APAC,89,826,2025-05-26
+530,Shirt 311,Clothing,57.15,8,Moore-Lee Warehouse,EU,81,895,2025-05-19
+561,Shirt 773,Home Appliances,63.01,4,Owens Group Warehouse,US,100,754,2025-06-08
+599,TV 179,Furniture,205.85,7,"Morris, Foster and Williams Warehouse",EU,36,95,2025-05-24
+577,Sofa 473,Electronics,189.06,2,Carr-Evans Warehouse,EU,58,808,2025-06-05
+571,Laptop 896,Furniture,266.21,5,Freeman-Wilkinson Warehouse,US,79,933,2025-06-11
+535,Shirt 866,Clothing,286.17,3,"Hayes, Anderson and Spence Warehouse",US,31,641,2025-05-20
+539,TV 758,Clothing,313.76,6,Johnson Group Warehouse,EU,100,622,2025-06-06
+576,TV 840,Clothing,274.09,3,Sims Inc Warehouse,APAC,83,174,2025-05-26
+550,Sofa 624,Furniture,407.67,8,Mason and Sons Warehouse,APAC,90,140,2025-05-22
+512,Sofa 184,Electronics,133.47,9,"Armstrong, Davis and Melton Warehouse",EU,92,366,2025-06-03
+515,Shirt 111,Home Appliances,352.59,3,White Group Warehouse,APAC,100,617,2025-06-09
+543,Laptop 864,Clothing,277.75,3,"Mcgrath, Wallace and Griffith Warehouse",APAC,24,172,2025-05-19
+577,TV 174,Clothing,327.18,5,"Smith, Serrano and Olson Warehouse",US,21,439,2025-05-16
+519,Sofa 977,Furniture,455.8,10,Mills-Butler Warehouse,US,40,180,2025-05-28
+596,Sofa 945,Electronics,83.11,10,Thompson-Spencer Warehouse,APAC,84,828,2025-06-05
+513,TV 357,Furniture,68.22,6,Abbott-Carlson Warehouse,US,51,701,2025-05-31
+585,TV 480,Furniture,460.73,3,Patterson-Harvey Warehouse,APAC,20,490,2025-05-20
+561,Laptop 206,Home Appliances,34.49,2,"Kline, Jackson and Cantu Warehouse",US,72,937,2025-05-15
+531,Shirt 369,Furniture,295.12,4,Craig-Hancock Warehouse,APAC,54,365,2025-05-28
+525,Shirt 825,Clothing,320.69,1,Kent Inc Warehouse,APAC,99,227,2025-06-08
+564,Laptop 298,Electronics,168.58,5,Martin Inc Warehouse,EU,85,680,2025-06-02
+538,Sofa 238,Clothing,269.6,3,"Barnes, Brooks and Mcintyre Warehouse",EU,69,268,2025-05-28
+565,Sofa 249,Furniture,26.24,9,Ware LLC Warehouse,US,12,579,2025-05-16
+522,Laptop 130,Clothing,292.01,8,Graham Ltd Warehouse,US,96,965,2025-05-27
+539,TV 254,Electronics,125.37,2,Horn-Morgan Warehouse,US,48,450,2025-05-15
+526,Laptop 558,Home Appliances,56.39,9,"Ponce, Carr and Phillips Warehouse",APAC,93,471,2025-05-23
+518,TV 754,Electronics,123.82,9,Cameron Group Warehouse,EU,30,433,2025-05-14
+596,TV 912,Clothing,353.44,7,Roberts-Tapia Warehouse,US,21,636,2025-05-16
+517,Shirt 714,Clothing,384.92,2,Thomas PLC Warehouse,APAC,88,816,2025-06-08
+539,TV 890,Furniture,136.72,9,"Camacho, Ortiz and Walsh Warehouse",APAC,28,664,2025-05-15
+598,Sofa 113,Clothing,314.65,8,Olson Inc Warehouse,EU,88,162,2025-06-09
+564,Laptop 799,Electronics,46.15,10,"Patrick, Watts and Hernandez Warehouse",APAC,30,480,2025-05-30
+501,Sofa 943,Electronics,290.25,10,Mckay-Wright Warehouse,APAC,11,254,2025-06-08
+595,Sofa 828,Home Appliances,479.56,4,Zamora-Medina Warehouse,EU,36,866,2025-06-08
+532,Sofa 227,Clothing,484.55,4,"Rodriguez, Garza and Patterson Warehouse",EU,88,734,2025-05-15
+546,TV 759,Electronics,23.0,1,"Singleton, Romero and Smith Warehouse",US,22,216,2025-05-16
+503,Laptop 212,Home Appliances,82.85,9,Mccall-Thornton Warehouse,US,76,254,2025-05-16
+524,Shirt 304,Furniture,323.41,2,"Sanchez, Alexander and Morales Warehouse",EU,49,263,2025-05-17
+552,Sofa 617,Home Appliances,349.84,7,Green-Gonzales Warehouse,APAC,57,663,2025-05-24
+595,Shirt 691,Home Appliances,295.84,2,Shannon and Sons Warehouse,APAC,42,524,2025-05-23
+531,Shirt 780,Electronics,191.58,2,Bennett and Sons Warehouse,APAC,97,852,2025-05-25
+577,Shirt 432,Home Appliances,234.81,1,Graham-Washington Warehouse,EU,58,195,2025-06-03
+588,Sofa 927,Furniture,309.53,3,"Castillo, Banks and Lee Warehouse",APAC,71,343,2025-05-25
+576,Laptop 838,Electronics,387.04,4,Garcia PLC Warehouse,US,99,82,2025-05-21
+541,TV 316,Furniture,161.75,4,Freeman Group Warehouse,APAC,92,997,2025-05-31
+565,Shirt 455,Home Appliances,97.15,8,Palmer Group Warehouse,APAC,80,72,2025-06-12
+558,Shirt 354,Home Appliances,144.45,4,"Brewer, Hess and Gonzalez Warehouse",APAC,92,492,2025-06-02
+570,Laptop 730,Furniture,270.49,6,Sanchez-Cross Warehouse,US,55,826,2025-05-26
+561,Laptop 202,Clothing,135.47,4,Myers Group Warehouse,EU,63,740,2025-05-18
+598,Laptop 190,Electronics,71.68,6,Cook-Willis Warehouse,EU,65,681,2025-05-18
+515,TV 926,Electronics,187.67,6,Johnson PLC Warehouse,US,24,663,2025-05-15
