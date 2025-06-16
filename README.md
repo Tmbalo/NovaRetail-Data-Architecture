@@ -8,7 +8,7 @@ A cloud-native data platform for real-time retail analytics, integrating transac
 - **Technologies**: Azure (Synapse, Data Factory, Data Lake, Purview), Databricks (Spark), PowerDesigner, Airflow, Power BI, Python, SQL.
 
 ## Architecture
-![Architecture Diagram](docs/architecture_diagram.png)
+![Architecture Diagram](docs/novaretail_data_architecure.drawio.png)
 
 ## Repository Structure
 - `data/`: Sample datasets for orders, clickstream, and inventory.
