@@ -28,7 +28,7 @@ A cloud-native data platform for real-time retail analytics, integrating transac
 - **Analytics**: Delivered Power BI dashboards for sales and inventory insights.
 
 ## Contact
-For questions, reach out via [LinkedIn](<your-linkedin-url>) or [email](tmbalo02@gmail.com).
+For questions, reach out via [LinkedIn](https://www.linkedin.com/in/thozamile-mbalo-97a33198/) or [email](tmbalo02@gmail.com).
 
 ## License
 MIT License
