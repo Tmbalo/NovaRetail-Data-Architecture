@@ -1,0 +1,106 @@
+CustomerID,Name,Email,Phone,BirthDate,JoinDate,Status
+386ecbe0-6b65-46a4-8b81-48f6b38a088c,Allison Hill,donaldgarcia@example.net,+1-219-560-0133,1993-03-09,2025-03-23,active
+ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85,Donald Booth,helenpeterson@example.org,651.216.1559,1994-02-13,2024-05-31,actve
+35a240ae-5af3-4553-9ec4-2e0829a3b2e9,,smiller@example.net,+1-659-931-0341x316,1987-09-21,2024-01-05,inactive
+3602f8ac-10f1-4c81-848a-aa9e66b2bc5b,Mia Sutton,lynchgeorge@example.net,527.264.8350,1999-03-31,2023-10-21,INACTIVE
+0c0fd195-c17a-408a-9745-d6d87e570ddf,Latoya Robbins,dianafoster@example.net,724.523.8849x696,1953-11-16,2024-08-17,actve
+f42d47cc-00d4-4f59-b427-3ca3287d06ca,,hernandezernest@example.net,(791)366-9784x80184,1964-06-07,2024-04-23,active
+ce88cb2d-d4e8-4839-bc3e-058be0f3eab0,,teresa28@example.org,+1-948-293-2528x8095,1952-01-28,2024-01-02,Active
+337ea2df-b09b-4a5c-badc-c32ac1590f53,,john39@example.org,671-882-2782,1958-11-16,2024-10-02,INACTIVE
+e7c99b26-1141-45c6-ba9b-edd40f1259e0,Jennifer Powers,samuel87@example.org,531.250.9839,1949-04-17,2025-02-22,INACTIVE
+b92da22b-21df-406f-8a0b-3c3336d8393a,,heathchad@example.org,5672073,1989-12-26,2024-07-11,Active
+6c006f61-23e2-4cb4-b2d8-567d894a05e4,,esanchez@gmail,(331)516-5667x01065,1957-07-01,2023-04-09,INACTIVE
+fc3d3348-008d-4127-a104-61e32a25a888,,joshuawright@example.org,581.808.0132x677,2005-11-15,2022-09-17,INACTIVE
+82010c62-f5f5-4b22-8e8f-a8e0284d82e5,Timothy Glover,rodney87@example.org,243.909.8050,1978-09-06,2024-09-20,INACTIVE
+43ff5011-3d1a-45dd-906e-5a9ab758588d,,yorkcasey@example.org,+1-736-619-3990x91699,1958-05-12,2025-04-23,Active
+48f4ef12-5e99-43d2-be89-6c64e117dac3,,panderson@gmail,675-410-7991x1838,1968-03-18,2022-10-02,inactive
+81627cf1-4394-42e6-9a58-7e8aa25d6b29,Roy Warner,contrerasangela@example.net,524-711-8244,1958-04-26,2025-05-20,INACTIVE
+e623a689-5d59-4d2a-8eea-04e70ab54bde,Taylor Mathis Jr.,ccalderon@example.org,724-427-8680x11280,1973-09-16,2023-01-01,active
+61ee411a-1bac-47a7-b386-f7a4c991603f,,nolanjason@example.org,+1-815-586-9232x26025,1962-08-14,2023-02-20,INACTIVE
+2db69edb-42de-4fcc-b86c-2ca2e08596db,,garrisonjeffrey@example.com,(843)730-3654x145,1946-05-05,2022-12-14,actve
+505cc686-9f87-4ce7-9487-fd4febb7a385,Victoria Johnson,yreed@example.com,(798)816-9340x60883,1949-03-23,2025-04-14,Active
+9479e1e6-c927-4d9b-ae0d-264835ce8841,,cortezkevin@example.com,+1-865-264-8236x62994,1965-02-20,2023-09-06,inactive
+79a28903-fbe3-4b24-beae-00320bd4a990,Erica Ramos,williamleon@example.net,(514)589-5134,1954-06-28,2022-07-25,inactive
+76f2dbfe-cd29-436f-a222-82e174daaebf,Patricia Gibson,jennifercruz@example.com,220.516.3287,2006-11-23,2022-12-23,inactive
+8a476a87-e49d-481d-91d8-7c6455fa1ab8,Victoria Larson,usalazar@example.net,(387)627-7434x87347,1960-06-02,2023-08-14,INACTIVE
+d5f25073-f414-42b1-a442-9ebbda7b9095,Chris Reyes,jasminebrown@example.com,787-660-3669x09670,1995-09-26,2024-02-13,active
+978648f8-64de-42e6-a82c-7d7b06e745f9,,vmedina@example.net,+1-937-434-6706x562,1986-10-22,2024-09-24,active
+a6d964a3-f510-4b53-87fe-e39f1190f938,Alyssa Day,michellewhite@example.com,(253)775-5646x4170,1959-09-21,2025-03-23,active
+f6b751f7-9b74-4245-9b1b-c8952af43ab7,,websterstefanie@example.org,9926327193,1996-08-25,2024-01-12,inactive
+ce3714af-99b4-4350-af2b-99b4d9acd158,,stricklandfrank@example.com,590-349-6631,1991-11-27,2023-09-29,actve
+859131d2-bbda-4242-ad17-4fc96f7c15ea,,hoganashlee@example.org,(786)951-8506x716,1992-08-05,2023-02-10,inactive
+5ad5cf06-364d-4c87-bcd0-129d2e8d0e87,,christina87@example.com,(294)953-1473x79965,2002-05-15,2023-11-04,Active
+3d85de89-c217-4429-8e20-07247d137018,Gina Beard,angela83@example.org,5049282,1993-06-18,2024-03-10,active
+7428a656-b3ee-4d3b-9a10-412954aebd1b,,fbrewer@example.com,9147363495,1973-06-01,2024-10-19,INACTIVE
+c31edbbc-f36c-462b-892e-6161be2d740a,,kristopher31@example.net,4231028,1965-12-07,2022-12-20,INACTIVE
+f1afdb65-b289-4224-8ac9-778d8da8eee4,Cheryl Rodgers,jenny89@example.com,434-635-2408,1947-07-24,2022-09-10,Active
+93b7a886-12f7-4c97-bde3-1a516694c343,,danamullins@example.org,6949777520,1952-03-23,2022-09-27,actve
+9b37a22b-6a8a-416f-83b2-90d08edddfcd,,hernandezlisa@example.com,2429098,1961-05-08,2022-12-19,INACTIVE
+68949b8d-00af-4b3a-a812-859a1337739e,,kimberlyjames@example.com,496-549-9091x3341,1956-04-16,2024-10-22,Active
+e88da719-2624-4b40-a5cb-63a2398d1ca6,,enorris@example.com,5348471349,1952-04-09,2024-10-10,inactive
+f1533ae8-670a-4c5c-b321-bf214dd8eb85,Charles Brown,brooke94@example.com,3086308,1976-05-10,2025-05-22,Active
+7de1bdfe-d072-4b5c-a281-40446f962882,Joshua Kim,prestonjessica@example.net,901-639-9049x027,1956-10-23,2024-12-13,inactive
+fcf56188-d32e-4dcd-83bc-9478dd6ac7b8,,harrisonricky@example.com,+1-712-356-7468x07154,1997-01-12,2024-03-06,active
+17dc8eff-6872-43f9-8d60-593603802b70,Sean Murray,lopezmichael@example.com,+1-570-434-8247x7109,1965-08-10,2024-10-20,active
+81fb18b3-c9a7-491f-af2a-e71357021049,Ryan Wilson,hollanderic@example.net,484-367-7378x2639,1963-04-06,2024-03-23,INACTIVE
+61985d54-cfb8-4e6f-a9d6-8f23b489d070,Aaron Barber,cgrimes@example.net,855.288.6753x3963,1966-02-11,2024-06-21,actve
+56abf2f1-43d8-4870-b81d-baa1c8120a8e,Matthew Hoover,tylerjohnson@example.net,001-851-471-8702,1949-07-21,2024-06-16,active
+530a37df-0bc6-4066-8769-165fe746ccb9,Jennifer Miller,melissa86@example.com,+1-978-409-1343x1611,1991-09-09,2023-09-26,INACTIVE
+a34db7c5-760d-4bbb-bb70-b3a124a35cf2,,carternicholas@example.org,886.592.2219,1978-04-30,2024-12-09,actve
+4bbe4aff-9326-4ffd-9be4-bf5192698698,,steve07@example.com,+1-982-317-5946x47436,1960-08-08,2024-01-31,INACTIVE
+a0d4de3d-2303-46c6-969d-42f1ae4c84ff,,andrew64@example.org,001-509-674-3953,1990-08-01,2025-04-07,inactive
+bf1e8366-4b8e-43d4-8e76-07adf7a67b94,Mark Williams,xjohnson@gmail,001-621-445-6232x8588,1961-12-13,2024-07-05,INACTIVE
+95a5bafa-431d-429f-ac1e-86d8bfbf397b,,linda71@gmail,(336)985-1604,1969-07-18,2025-04-28,Active
+18e19331-1dba-4267-be1c-a5a1fef518a6,,xcarson@example.org,+1-437-209-8593x17461,1946-12-29,2023-10-03,active
+5cd8fe1a-dafe-48a9-bc71-e0bef3579560,,paigetaylor@example.com,(786)592-6179x640,1974-08-20,2024-05-08,active
+c9e48e8c-25c6-4c45-863d-04ee541c7a86,Michael Stephens,bruce43@example.org,513.590.0532x931,1999-10-16,2023-06-14,INACTIVE
+ca3c6f5f-5bb5-440c-83cd-e2e321bddb41,April Garrison,vanessafernandez@example.org,2844258,1989-06-12,2022-07-28,INACTIVE
+d8e88ebb-7a9e-4eef-bfa3-61be0f9240e1,Leah Smith,brian68@example.org,001-617-975-8917x8390,1988-03-29,2022-08-05,INACTIVE
+9fd34579-4667-42ce-a04e-178c10d08d11,Michael Henry,fjones@gmail,6404139,1985-11-09,2023-02-03,INACTIVE
+f41ea3ac-5fd2-4109-8140-752caa448259,Kimberly Nguyen,shawn96@example.org,001-318-736-7365x766,1973-07-03,2023-10-16,actve
+81e5c9f6-93f2-47cc-9a85-910d5a057c11,Thomas Jones,daviscolin@example.net,(228)609-8851x656,1985-04-27,2023-10-16,active
+4f199ec0-c32d-4526-b3e4-110a45f50c52,,ericolson@example.org,(285)614-9368x998,1946-06-07,2023-03-25,active
+0d77c5a0-e222-46a6-95bf-be9798a21f1c,,michael22@example.net,+1-661-720-1836x67525,1997-04-29,2024-11-15,active
+0e0630cd-996d-4c50-bc04-a168652ffb49,Paul Williams,nelsonebony@gmail,997.664.3815x6149,1947-07-21,2023-05-26,INACTIVE
+ebd14d2c-75b2-4455-84cc-3ede6fac1673,,harrissierra@example.org,001-744-351-0762x26838,1971-06-26,2022-08-22,actve
+1422373f-8622-48d1-a683-e10796c044d0,Erik Patterson,amckinney@example.com,860-352-9751,1961-01-07,2024-04-24,active
+1a5165ca-3c7c-4d85-a5cf-0041d0a643fe,,vharrell@example.com,752.718.1883,1993-12-17,2025-03-16,actve
+97674900-4651-4367-8bdc-43184d85a3d2,,jonathanthompson@example.org,001-312-977-9979x95527,1974-07-22,2025-02-22,active
+9ae1a991-524f-43ff-b030-7633a6ded1d8,,bellcharles@example.com,200.954.1199x867,2006-04-28,2024-11-22,Active
+569f3ab3-c643-4300-a8a5-1c68632dbb5e,Chris Brown,shepherdmary@example.net,482-703-7788,1969-11-01,2023-08-31,inactive
+d02ce0c1-5417-4a17-8aaa-5bbea4bbf962,Amy Mccoy,cameron18@example.net,(344)692-5192x5462,1982-07-01,2024-01-24,INACTIVE
+c9c23e69-d82c-4565-8bb9-07ec13c11754,,elizabethcalderon@gmail,001-581-568-5054x2357,1953-10-28,2023-02-13,INACTIVE
+48f1096d-9c4f-4b46-b1b7-01aaf836f571,,romeroamber@example.net,805.792.9622x29270,1990-06-28,2023-06-21,INACTIVE
+8df661da-5f07-41a5-9fc6-20ce7b07fd31,,pyoung@example.com,435.697.7468x8623,1948-01-05,2025-03-10,actve
+fe9936a3-62db-4850-bc5b-f3a75fbbf0b1,,dawsonzachary@example.org,812-247-8261x3750,1971-06-10,2024-08-05,Active
+f0b2a5d1-8c7e-4f42-a646-eaf9d5c0244d,,brooksanthony@example.org,001-352-220-4727x790,1961-11-17,2023-05-19,inactive
+3d959e3f-5a52-46e6-9d64-29320066853d,,srodriguez@example.org,510-436-9711x7980,1964-04-13,2024-04-14,active
+d0421dfa-56ab-487a-8bc7-8e815a304528,Chelsea Barnett,carlos88@example.net,380.767.0654x05153,1953-07-16,2022-08-25,active
+493e904d-30ec-4796-a59b-457fc0d7ac73,,mariacohen@example.net,822.917.0430x3054,1961-09-13,2022-08-13,INACTIVE
+53f28f11-147f-4570-9a43-db54523ae993,Richard Glenn,joshua56@example.com,001-876-452-7758x4161,1981-07-31,2023-09-17,active
+46494296-6f58-42c3-bf86-cc319d66e815,Elizabeth Morrison,cjackson@example.com,8501590,1947-05-06,2023-12-17,active
+71a6014c-5f3c-44dc-9ef7-87b8f2e6195f,,jonesdana@example.com,220.429.7021x35569,1990-09-03,2024-05-16,actve
+ffa623d0-ea9e-4c8d-b1a8-b71f491b90e9,Laura Moreno,redwards@example.org,602-978-6814,1959-01-24,2025-01-23,active
+9280c5aa-8dd4-495b-9c63-b6f306ba8cd3,Bryan Farrell MD,zosborn@example.net,451-588-4422x58313,1998-03-31,2024-07-24,Active
+c48d5650-2e95-42d6-9679-2482a3c988e4,Robert Arnold,jonesraymond@example.net,001-778-466-9125x1778,2004-03-16,2024-10-21,Active
+17eaec83-8892-442f-9d4b-2bf94d85e9c7,Jessica Bartlett,guerraapril@example.com,(525)635-8414,1952-12-24,2025-02-12,INACTIVE
+f4e7069a-a454-4937-8a27-ebf28baaf744,,brittanycarpenter@example.org,+1-299-959-0010x94396,2004-12-16,2025-02-16,INACTIVE
+586a346a-dc5b-47d1-bcef-1972bbf483ce,David Aguirre,eevans@example.net,4277677359,2003-02-01,2023-10-27,inactive
+9d896047-dd39-4793-a257-a4a2f204be89,,xanderson@example.net,+1-415-337-1473,1947-11-27,2023-09-11,inactive
+3da06476-f778-4676-b50d-112e8164ceec,,kwright@example.com,001-953-227-8774,1950-08-04,2024-02-18,actve
+5cce5ba9-31d4-4e09-8fd3-3afc91fdfa4f,,brandywilliams@gmail,779-274-8016x2456,1971-09-21,2022-09-05,active
+b6adf48b-2314-40c8-89f6-44050b990034,,charles87@example.net,599-812-1655x852,1978-06-29,2022-08-19,actve
+4ec3f970-956d-40e4-aaa2-6216fada98f5,John Bryant,markaustin@example.org,(794)795-8887x9470,1990-04-25,2022-12-05,actve
+69b7c0fa-26c4-42f6-ab35-2f85504e2687,,carlsonjoseph@example.net,001-399-530-9728x96230,1945-10-01,2024-05-03,inactive
+43ad3d62-b17c-4b21-8dbc-2c1ca4afe7bd,,roberthampton@example.com,001-702-783-8578x6527,1990-06-15,2025-05-10,inactive
+257f7595-cdfb-4db9-85e7-8b23f4613f09,Cheryl Wright,jeffrey44@example.net,875.875.8441,2000-02-25,2023-12-06,active
+a35055e4-39c5-4df9-87f2-55d6e7ba26ac,Dwayne Klein,sandra47@example.org,584.584.2199,1947-12-01,2025-04-23,inactive
+a6fd0cb1-16e6-45c0-84cb-294fe86e8e63,Brett Rivera,xgarcia@gmail,(708)626-7734,1988-05-31,2022-09-17,inactive
+55c551fc-fba5-4cc8-adaf-37661b780ede,,amandasharp@example.org,(262)606-7240,1983-02-10,2025-01-09,actve
+aca58d95-915a-4c30-8b86-b5a1ca6fbff8,,shawn88@example.com,(687)443-1527,1945-06-03,2023-11-23,inactive
+546252e7-f43b-4052-8459-bd6ec0f63229,Casey Chase,gwilcox@example.com,661-822-7530,1960-06-27,2024-05-11,active
+81e5c9f6-93f2-47cc-9a85-910d5a057c11,Thomas Jones,daviscolin@example.net,(228)609-8851x656,1985-04-27,2023-10-16,active
+5cd8fe1a-dafe-48a9-bc71-e0bef3579560,,paigetaylor@example.com,(786)592-6179x640,1974-08-20,2024-05-08,active
+f1afdb65-b289-4224-8ac9-778d8da8eee4,Cheryl Rodgers,jenny89@example.com,434-635-2408,1947-07-24,2022-09-10,Active
+5cce5ba9-31d4-4e09-8fd3-3afc91fdfa4f,,brandywilliams@gmail,779-274-8016x2456,1971-09-21,2022-09-05,active
+d0421dfa-56ab-487a-8bc7-8e815a304528,Chelsea Barnett,carlos88@example.net,380.767.0654x05153,1953-07-16,2022-08-25,active
