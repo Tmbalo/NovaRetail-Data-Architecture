@@ -1,9 +1,9 @@
 ## Data Architecture Design
 ## Architecture Diagram
-![Medallion Architecture](data/novaretail_data_architecure.drawio.png)
+![Medallion Architecture](novaretail_data_architecure.drawio.png)
 
 ### Bronze Layer
-- **Purpose**: Store raw transactional, clickstream, inventory data.
+- **Purpose**: Store raw transactional, clickstream, and inventory data.
 - **Datasets**:
   - `raw_orders`: order_id, customer_id, customer_name, email_pii, phone_pii, product_id, product_name, product_category, unit_price, order_date, total_amount, region.
   - `raw_clickstream`: user_id, session_id, page_views, product_id, product_name, product_category, timestamp, session_duration_seconds.
