@@ -1,6 +1,6 @@
 ## Data Architecture Design
 ## Architecture Diagram
-![Medallion Architecture](novaretail_data_architecure.drawio.png)
+![Medallion Architecture](docs/novaretail_data_architecure.drawio.png)
 
 ### Bronze Layer
 - **Purpose**: Store raw transactional, clickstream, and inventory data.
