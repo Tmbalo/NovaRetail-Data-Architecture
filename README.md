@@ -8,17 +8,23 @@ A cloud-native data platform for real-time retail analytics, integrating transac
 - **Technologies**: Azure (Synapse, Data Factory, Data Lake, Purview), Databricks (Spark), Draw.io, Airflow, Power BI, Python, SQL.
 
 ## Architecture
-![Architecture Diagram](docs/novaretail_data_architecure.drawio.png)
+![Architecture Diagram](docs/novaretail_data_architecure1.drawio.png)
 
 ## Repository Structure
-- `data/`: Sample datasets for orders, clickstream, and inventory.
-- `scripts/`: Code for data modeling, ELT pipelines, Spark processing, and Airflow orchestration.
-- `docs/`: Architecture diagrams and detailed documentation.
+- `data/`: Synthetic datasets and governance reports.
+- `scripts/`: Python, SQL, Airflow, and ADF scripts.
+- `docs/`: Documentation, diagrams, and plans.
+
+## Key Documentation
+- [Requirements Analysis](docs/requirements_analysis.md)
+- [Data Management Approach](docs/data_management_approach.md)
+- [Naming Conventions](docs/naming_convention.md)
+- [Project Plan](docs/project_plan.md)
 
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/Tmbalo/NovaRetail-Data-Architecture.git`
-2. Set up Azure services (free tier) and Databricks Community Edition.
-3. Run scripts in `scripts/` to replicate the pipeline.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Follow task instructions in Notion.
 
 ## Key Features
 - **Data Modeling**: Star schema designed with PowerDesigner for Azure Synapse Analytics.
