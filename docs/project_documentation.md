@@ -1,4 +1,7 @@
 ## Data Architecture Design
+## Architecture Diagram
+![Medallion Architecture](architecture_diagram.png)
+
 ### Bronze Layer
 - **Purpose**: Store raw transactional, clickstream, inventory data.
 - **Datasets**:
