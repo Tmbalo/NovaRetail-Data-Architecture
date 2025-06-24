@@ -10,12 +10,17 @@ Faker.seed(456)
 random.seed(456)
 
 # Load customer data to link orders
-customersid_df = pd.read_csv("customers_dirty.csv")
+customersid_df = pd.read_csv("data/sample_data/customers_dirty.csv")
 customer_ids = customersid_df['CustomerID'].dropna().tolist()
 
 # Load products data to link orders(ProductID)
-productid_df = pd.read_csv("products_dirty.csv")
+#productid_df = pd.read_csv("data/sample_data/products_dirty.csv")
+#product_ids = productid_df['ProductID'].dropna().tolist()
+
+# Load products data to link orders(ProductID)
+productid_df = pd.read_csv("data/sample_data/products_dirty.csv")
 product_ids = productid_df['ProductID'].dropna().tolist()
+product_price_map = dict(zip(productid_df['ProductID'], productid_df['Price']))  # <-- Add this line
 
 
 def generate_products(n=50):
@@ -34,16 +39,17 @@ def generate_orders(n=500):
         customer_id = random.choice(customer_ids)
         product_id = random.choice(product_ids)
         quantity = random.randint(1, 5)
-        ##price = product_price
-        #total = price * quantity
+        price = product_price_map.get(product_id, 0)  # <-- Get price for product_id
+        total = price * quantity
         order_date = fake.date_time_between(start_date='-3M', end_date='now')
         data.append({
             "OrderID": f"O{i+1:05d}",
             "CustomerID": customer_id,
             "ProductID": product_id,
             "Quantity": quantity,
-            "TotalAmount": "pricequantity",
-            "OrderDate": order_date.strftime("%Y-%m-%d %H:%M:%S")
+            "TotalAmount": total,  # <-- Use calculated total
+            "OrderDate": order_date.strftime("%Y-%m-%d %H:%M:%S"),
+            "region": [random.choice(["US", "EU", "APAC", "UK"]) for _ in range(n)]
         })
     return pd.DataFrame(data)
 
@@ -96,10 +102,10 @@ if __name__ == "__main__":
 
 
     # Save datasets
-    orders_df.to_csv("orders_dirty.csv", index=False)
-    with open("clickstream_dirty.json", "w") as f:
+    orders_df.to_csv("data/sample_data/orders_dirty.csv", index=False)
+    with open("data/sample_data/clickstream_dirty.json", "w") as f:
         json.dump(clickstream, f, indent=4)
-    inventory_df.to_csv("inventory_dirty.csv", index=False)
+    inventory_df.to_csv("data/sample_data/inventory_dirty.csv", index=False)
 
 
 
