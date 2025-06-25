@@ -1,102 +1,102 @@
-CustomerID,CustomerName,Email,Phone,SignupDate
-C00001,Tracy Graham,,+1-428-769-0709x8761,2024-10-20
-C00002,Maria Williamson,stephanieturner@example.org,000-123,2024-11-25
-C00003,rachel tanner,tracykim@example.net,578-829-6175x715,2024-05-07
-C00004,William Wilson,markcook@example.net,+1-591-669-3947,2023-12-08
-C00005,John Baker,jestrada@example.org,768.651.0777,2024-02-28
-C00006,Cody Myers,frankwu@example.org,212.333.0942x765,2023-10-30
-C00007,Rachel Page,lopezlynn@example.org,2478034101,2023-10-21
-C00008,Lauren Hale,richardwaller@example.com,001-478-868-5448x5576,2024-04-27
-C00009,Robin Jones,jessica07@example.org,207.452.5376x66567,2023-08-18
-C00010,Heidi Odom,gonzalezmelanie@example.com,001-792-289-3008x6335,2023-12-15
-C00011,Maria Savage,amyjoseph@example.org,341-714-7508x0766,2024-09-15
-C00012,Robert Anderson,johncolon@example.org,(372)860-4269x023,2025-03-16
-C00013,Michael Wood,mschultz@example.net,339.668.0374x45255,2023-07-22
-C00014,Emily Villegas,vpratt@example.net,001-260-732-0375,2024-05-23
-C00015,Meredith Watts,katelyngriffin@example.net,+1-665-619-0773x84263,2024-10-26
-C00016,Jennifer Le,randallgarcia@example.net,(744)252-1840x7284,2024-05-18
-C00017,Stacy Ford,virginia91@example.com,+1-285-278-5567x57423,2025-05-01
-C00018,David Gardner,bradshawmichelle@example.org,(408)948-5406x183,2024-07-28
-C00019,Richard Arroyo,lsmith@example.com,8104539378,2023-07-10
-C00020,Manuel Flowers,mmcconnell@example.com,252-934-9622x81059,2023-08-13
-C00021,Paula Fernandez,dianegiles@example.net,323-579-5776,2024-10-20
-C00022,Richard Taylor,heidimckay@example.net,7659476869,2024-12-22
-C00023,Christopher Boyer,philip89@example.net,8658420853,2024-09-13
-C00024,Joseph Patrick,alexjenkins@example.net,464.903.7780,2024-04-05
-C00025,Nathan Smith,kelliwhitehead@example.com,+1-943-470-9672x57876,2023-11-30
-C00026,Christopher Acevedo,johnathan74@example.org,+1-958-977-8923x7432,2024-10-09
-C00027,Gregory Newman,heather63@example.org,001-808-862-3808x86511,2023-09-13
-C00028,Jasmin Nelson,robert58@example.net,001-738-309-0736x91847,2024-11-23
-C00029,Anthony Jones,stephanieleblanc@example.org,+1-887-972-2723x740,2023-08-27
-C00030,Jared Paul,justinyoung@example.net,+1-899-350-0912x34423,2025-01-08
-C00031,Juan Smith,patty50@example.org,(280)527-1338x361,2024-01-22
-C00032,William Griffith,alicewhite@example.net,(422)819-5924x932,2024-05-12
-C00033,Shannon Tapia,thill@example.net,+1-996-546-0980x33339,2024-09-23
-C00034,Eric Miller,jeremy90@example.net,281-895-2212,2024-02-10
-C00035,Sherry Farrell,mckenziemichael@example.org,952.308.5481x4048,2023-10-21
-C00036,Kimberly Page,meyerschristopher@example.com,+1-212-596-0401,2024-06-27
-C00037,Richard Banks,william59@example.com,001-695-946-8584,2023-09-12
-C00038,Mr. Lawrence Jones,michael39@example.net,(339)510-3324,2023-12-21
-C00039,Oscar Meyers,sfuentes@example.org,951.823.8339,2023-07-04
-C00040,Devin Webb,spencerwilson@example.com,626-768-8785,2024-07-26
-C00041,Mr. Charles Farrell,vrivera@example.org,734.252.3449,2025-04-18
-C00042,Brad Washington,nthompson@example.net,467-804-3856,2023-09-23
-C00043,Austin Walsh,epeterson@example.net,001-455-507-7237,2025-04-22
-C00044,Richard Perry,aholder@example.org,+1-825-871-5670x00612,2023-11-08
-C00045,Dr. Donald Bridges,awong@example.org,532-274-5129,2024-11-02
-C00046,Amanda Perez,susan46@example.com,7959616827,2024-10-05
-C00047,William Thomas,martha65@example.org,8076807128,2023-08-21
-C00048,Angelica Brown,amandabradshaw@example.org,001-759-297-3284,2024-06-17
-C00049,Walter Woods,yvette44@example.net,292.681.4190,2025-06-08
-C00050,Cassandra Lopez,gregory72@example.com,489-868-3175x4829,2023-09-14
-C00051,Jamie Rocha,lisa30@example.com,554-415-4214,2024-11-21
-C00052,Kristy Buchanan,tallen@example.org,608-984-9194x245,2025-01-10
-C00053,Carolyn Shaffer,bradley50@example.org,001-257-299-4300,2024-08-18
-C00054,John Rivers,sferguson@example.org,783.548.9964,2025-01-19
-C00055,Candace Neal,nathaniellewis@example.net,647.989.0256,2025-01-04
-C00056,Jade Kirby,aaron93@example.com,(934)377-7082,2025-05-26
-C00057,Nicholas Estrada,stewartmarissa@example.org,274.879.9197,2024-11-15
-C00058,Kenneth Becker,whitneyochoa@example.net,(909)832-8532x8813,2025-02-21
-C00059,Lisa Sullivan,courtney68@example.org,+1-844-915-0289x228,2024-10-23
-C00060,Juan Williams,garywells@example.com,(850)217-0984x079,2023-09-19
-C00061,Jennifer King,maysmatthew@example.org,620.657.4133,2023-10-17
-C00062,James Wise,brian21@example.org,(265)820-2897x118,2025-03-19
-C00063,Evan Smith,paul24@example.com,+1-773-924-7859x6491,2024-05-07
-C00064,Brandy Wilson,josephjamie@example.net,247.709.8146,2024-08-23
-C00065,Katherine Green,deniserocha@example.org,468.812.1211x92458,2024-11-15
-C00066,Morgan Stewart,stephanie42@example.net,+1-639-938-3871x841,2024-10-20
-C00067,Debra Ferguson,miranda16@example.com,001-224-679-6825x87976,2025-06-12
-C00068,Carl Harris,jacqueline93@example.net,715.205.4735x162,2024-12-21
-C00069,Chad Jimenez,caseyrandy@example.net,001-400-331-7552,2025-02-28
-C00070,Jacqueline Parrish,richard61@example.org,+1-701-820-2273x4377,2025-03-21
-C00071,Teresa Parker,cwright@example.com,976-270-3372x23466,2024-03-18
-C00072,Nicholas Ortiz,burnsdenise@example.net,001-513-325-9141x2123,2023-09-18
-C00073,Jonathan Gregory,johnsoncheryl@example.org,(445)694-6223,2024-01-12
-C00074,Rebecca Quinn,keith55@example.com,368-707-5779,2024-04-14
-C00075,Nicole Carter,vazquezandrew@example.net,001-430-327-4602x402,2024-10-08
-C00076,Stephen Watson,andrea79@example.org,+1-962-713-7531x599,2024-08-01
-C00077,Amanda Scott MD,bwhitaker@example.org,(742)956-6781x007,2025-03-03
-C00078,Nicole Griffin,miguelrodriguez@example.com,+1-530-999-4213x24011,2024-11-19
-C00079,Justin Richard,guerrajames@example.org,202.450.6641x5127,2024-07-11
-C00080,Jermaine Suarez,joecampbell@example.org,3536180216,2023-11-18
-C00081,Brandon Lynch,gallen@example.net,644.561.2889x849,2024-09-02
-C00082,Alexandria Salinas,rachelhendrix@example.com,877-829-8851x067,2024-11-18
-C00083,Brittany Baker,stevenschristine@example.net,+1-359-771-1364x999,2025-01-19
-C00084,Eric Shaffer,mitchell99@example.net,933.962.9737,2023-07-02
-C00085,Shawna Carrillo,hoffmankelly@example.com,9125926592,2024-10-06
-C00086,Anthony Johnson,shane87@example.net,+1-696-295-1608x538,2024-03-05
-C00087,Andrew Reed,jhamilton@example.com,+1-768-439-4661x80822,2025-06-16
-C00088,Kurt Howard,nancysalinas@example.org,323-275-3888,2023-08-05
-C00089,Karen Banks,thomasjohnson@example.net,+1-742-806-9400,2023-10-17
-C00090,Samantha Mann,christinapage@example.org,001-385-676-4290x0883,2023-07-08
-C00091,Mr. Randall Patterson,denisethompson@example.net,496-945-7488x608,2024-03-03
-C00092,Katrina Gibbs,williamslisa@example.net,850-994-3882,2024-03-21
-C00093,Jennifer Acosta,qjensen@example.com,(582)907-7848,2023-12-06
-C00094,Rebecca Griffin,nathanielwarren@example.com,481.566.0769x2839,2025-04-22
-C00095,Matthew Weaver,ufloyd@example.net,8058791281,2023-11-10
-C00096,William Kennedy,gbarnes@example.org,001-664-511-9568x6082,2025-06-16
-C00097,Susan Rivera,darius31@example.net,212-500-9270,2024-03-10
-C00098,Lindsay Pacheco,omarpoole@example.net,9917823624,2023-08-06
-C00099,Robert Wagner,bbishop@example.com,(245)239-3823x40488,2024-04-19
-C00100,Benjamin Hartman,hbryant@example.net,628.626.3536x68974,2025-01-15
-C00004,William Wilson,markcook@example.net,+1-591-669-3947,2023-12-08
+CustomerID,CustomerName,Email,Phone,SignupDate,Region,LoyaltyPoints,AccountStatus,LastLogin,PreferredLanguage,PreferredPaymentMethod,LastPurchaseDate,Address
+C00001,Tracy Graham,,+1-428-769-0709x8761,2024-10-20,UK,48,Inactive,2024-10-06 22:15:20,Chinese,Credit Card,2025-01-26 22:06:05,"29600 Meza Inlet Apt. 746, Kellyview, WY 64292"
+C00002,Maria Williamson,stephanieturner@example.org,000-123,2024-11-25,UK,751,Active,2025-02-25 20:13:06,Spanish,Credit Card,2025-05-09 07:30:10,"3139 Harrison Way, Lake Justinside, WI 94841"
+C00003,rachel tanner,tracykim@example.net,578-829-6175x715,2024-05-07,UK,78,Suspended,2025-04-06 16:31:37,English,Bank Transfer,2024-10-06 01:52:42,"20941 Jay Parks Suite 627, Katherineburgh, FL 94352"
+C00004,William Wilson,markcook@example.net,+1-591-669-3947,2023-12-08,UK,426,Suspended,2025-02-09 19:35:11,Spanish,Bank Transfer,2024-07-10 21:22:17,"1015 Jennifer Forest Apt. 461, Butlerview, GA 85502"
+C00005,John Baker,jestrada@example.org,768.651.0777,2024-02-28,US,445,Active,2025-05-07 12:08:28,German,Credit Card,2025-05-10 08:01:53,"272 Smith Grove Suite 319, Billyville, MI 90239"
+C00006,Cody Myers,frankwu@example.org,212.333.0942x765,2023-10-30,CA,695,Active,2024-12-27 01:45:19,Spanish,Credit Card,2025-04-21 17:17:12,"25112 Joseph Harbor, Lake Hollybury, MH 71769"
+C00007,Rachel Page,lopezlynn@example.org,2478034101,2023-10-21,CA,413,Suspended,2024-08-21 22:15:29,Chinese,PayPal,2024-12-19 18:15:31,"2054 Gentry Circles Suite 419, Thomaston, MS 36215"
+C00008,Lauren Hale,richardwaller@example.com,001-478-868-5448x5576,2024-04-27,US,69,Active,2024-09-14 03:29:52,German,PayPal,2024-10-02 13:14:41,"171 Michael Bridge, North Christopherville, MA 40620"
+C00009,Robin Jones,jessica07@example.org,207.452.5376x66567,2023-08-18,APAC,761,Inactive,2024-10-25 20:38:08,Spanish,Credit Card,2024-07-30 18:21:22,"01078 Tonya Tunnel, South Christopherbury, MS 95323"
+C00010,Heidi Odom,gonzalezmelanie@example.com,001-792-289-3008x6335,2023-12-15,UK,905,Suspended,2025-04-20 01:24:31,German,Bank Transfer,2024-09-14 19:59:58,"38509 Lewis Rest Suite 195, Port Stevenport, WA 93553"
+C00011,Maria Savage,amyjoseph@example.org,341-714-7508x0766,2024-09-15,US,13,Active,2025-01-20 16:41:38,German,Bank Transfer,2024-11-22 01:38:56,"09533 Cindy Loop Apt. 710, South Anthony, WV 50510"
+C00012,Robert Anderson,johncolon@example.org,(372)860-4269x023,2025-03-16,US,51,Active,2025-06-08 20:42:33,French,PayPal,2024-08-25 02:09:38,"034 Gill Loaf Suite 214, Port Sharon, NE 35355"
+C00013,Michael Wood,mschultz@example.net,339.668.0374x45255,2023-07-22,UK,565,Suspended,2024-12-25 00:48:13,French,Bank Transfer,2024-09-08 04:38:49,"06500 Tiffany Curve Apt. 428, North Morgan, MP 26704"
+C00014,Emily Villegas,vpratt@example.net,001-260-732-0375,2024-05-23,UK,775,Active,2024-07-04 19:31:26,French,Bank Transfer,2024-08-30 00:43:25,"72971 Stewart Club Apt. 169, Port Chelseaview, CA 95051"
+C00015,Meredith Watts,katelyngriffin@example.net,+1-665-619-0773x84263,2024-10-26,US,0,Active,2025-05-20 17:02:51,Chinese,Credit Card,2025-04-01 03:31:33,"0472 Mary Cliffs, North Nicole, AL 30790"
+C00016,Jennifer Le,randallgarcia@example.net,(744)252-1840x7284,2024-05-18,APAC,216,Suspended,2024-07-27 20:18:12,German,Bank Transfer,2025-02-11 22:44:52,"49882 Booth Overpass, Lopezfort, PR 22605"
+C00017,Stacy Ford,virginia91@example.com,+1-285-278-5567x57423,2025-05-01,EU,378,Active,2024-11-19 04:21:24,Spanish,PayPal,2024-08-16 20:06:46,"328 Gregory Stravenue, Lisafort, WI 04370"
+C00018,David Gardner,bradshawmichelle@example.org,(408)948-5406x183,2024-07-28,EU,527,Inactive,2024-07-02 01:25:32,French,Credit Card,2024-09-03 01:01:41,"80723 Brandon Avenue, North Joshua, MI 54436"
+C00019,Richard Arroyo,lsmith@example.com,8104539378,2023-07-10,EU,999,Active,2025-01-24 05:36:47,German,Credit Card,2024-12-21 05:03:31,"2504 Duffy Stravenue Apt. 006, New Ronaldport, TX 86326"
+C00020,Manuel Flowers,mmcconnell@example.com,252-934-9622x81059,2023-08-13,EU,168,Active,2024-10-15 19:33:07,English,Bank Transfer,2024-12-04 21:12:59,"8682 Kaitlyn Fort Suite 423, Montgomerybury, OK 73206"
+C00021,Paula Fernandez,dianegiles@example.net,323-579-5776,2024-10-20,UK,738,Inactive,2025-03-06 03:35:15,English,Bank Transfer,2024-12-02 14:12:21,"74153 Anderson Rapid Apt. 121, Lake Matthew, ND 92302"
+C00022,Richard Taylor,heidimckay@example.net,7659476869,2024-12-22,CA,418,Suspended,2025-06-06 07:11:21,German,Bank Transfer,2025-02-04 17:02:46,"PSC 3462, Box 8488, APO AE 59038"
+C00023,Christopher Boyer,philip89@example.net,8658420853,2024-09-13,CA,22,Active,2025-03-20 02:21:03,German,PayPal,2025-03-13 11:50:48,"23261 Jones Ways, West Keithmouth, OH 64228"
+C00024,Joseph Patrick,alexjenkins@example.net,464.903.7780,2024-04-05,CA,588,Active,2025-03-18 15:16:13,Spanish,Credit Card,2024-08-07 11:25:37,"81372 Joshua Place Suite 273, Jacksonland, PR 67757"
+C00025,Nathan Smith,kelliwhitehead@example.com,+1-943-470-9672x57876,2023-11-30,CA,895,Active,2025-01-12 05:54:14,English,Credit Card,2025-05-12 16:11:35,"23070 Wright Underpass, Port Jenniferside, SD 36941"
+C00026,Christopher Acevedo,johnathan74@example.org,+1-958-977-8923x7432,2024-10-09,CA,562,Active,2024-07-03 07:30:14,Chinese,PayPal,2024-09-12 11:02:40,"61701 Bowman Shoals Suite 162, Warrenborough, PA 53325"
+C00027,Gregory Newman,heather63@example.org,001-808-862-3808x86511,2023-09-13,UK,973,Suspended,2025-03-18 22:00:34,German,Credit Card,2024-10-15 21:18:35,"4706 Parsons Burgs, Laurenbury, NM 95609"
+C00028,Jasmin Nelson,robert58@example.net,001-738-309-0736x91847,2024-11-23,APAC,967,Suspended,2025-05-28 14:23:26,Chinese,Bank Transfer,2024-11-20 20:47:38,"13573 Harris Ridges Suite 692, Garciaburgh, CT 85982"
+C00029,Anthony Jones,stephanieleblanc@example.org,+1-887-972-2723x740,2023-08-27,US,260,Inactive,2025-04-12 08:02:01,Chinese,Credit Card,2025-04-24 12:53:15,"041 Martin Corners Apt. 921, East Lisa, FM 74100"
+C00030,Jared Paul,justinyoung@example.net,+1-899-350-0912x34423,2025-01-08,CA,458,Active,2024-12-06 12:15:41,English,Credit Card,2025-02-24 18:58:36,"565 David Flats Suite 428, Georgebury, KY 02178"
+C00031,Juan Smith,patty50@example.org,(280)527-1338x361,2024-01-22,CA,316,Active,2025-06-09 19:25:04,French,Bank Transfer,2025-01-28 11:07:44,"308 Stokes Terrace, Evanshaven, CA 20215"
+C00032,William Griffith,alicewhite@example.net,(422)819-5924x932,2024-05-12,US,823,Suspended,2025-04-17 20:56:37,English,Credit Card,2024-09-15 17:18:30,"9447 Morales Track Apt. 001, East Nathanville, NH 37360"
+C00033,Shannon Tapia,thill@example.net,+1-996-546-0980x33339,2024-09-23,APAC,88,Suspended,2024-11-23 17:50:58,German,Credit Card,2024-09-25 11:40:10,"2018 Leah Field, Lake Sarah, GA 23065"
+C00034,Eric Miller,jeremy90@example.net,281-895-2212,2024-02-10,APAC,819,Inactive,2025-01-25 23:23:56,French,Bank Transfer,2024-08-08 04:05:47,"PSC 4072, Box 2535, APO AA 91971"
+C00035,Sherry Farrell,mckenziemichael@example.org,952.308.5481x4048,2023-10-21,UK,737,Suspended,2024-11-16 15:17:06,French,PayPal,2024-11-28 20:42:55,"11428 Nguyen Drive, Port Tammyberg, WI 87895"
+C00036,Kimberly Page,meyerschristopher@example.com,+1-212-596-0401,2024-06-27,EU,252,Suspended,2024-10-26 22:15:10,English,Bank Transfer,2024-07-02 21:52:26,"5143 Burnett Expressway Apt. 272, North Benjamin, AS 56269"
+C00037,Richard Banks,william59@example.com,001-695-946-8584,2023-09-12,APAC,899,Active,2025-06-19 18:50:41,Chinese,Credit Card,2024-12-15 12:10:08,"6876 Johnson Road Suite 737, West Jason, OH 91809"
+C00038,Mr. Lawrence Jones,michael39@example.net,(339)510-3324,2023-12-21,EU,834,Inactive,2024-09-30 13:17:09,French,Credit Card,2025-01-31 03:36:38,"246 Benjamin Square, Johnsontown, WA 89225"
+C00039,Oscar Meyers,sfuentes@example.org,951.823.8339,2023-07-04,EU,873,Active,2024-09-24 10:35:40,French,PayPal,2025-03-29 11:51:54,"8541 Anthony Estates Suite 832, New David, MP 85118"
+C00040,Devin Webb,spencerwilson@example.com,626-768-8785,2024-07-26,UK,533,Inactive,2025-06-06 05:50:53,Spanish,Bank Transfer,2025-01-13 02:32:29,"48130 Michael Shoal, Port Nicolefurt, MI 44144"
+C00041,Mr. Charles Farrell,vrivera@example.org,734.252.3449,2025-04-18,EU,631,Suspended,2024-11-14 11:04:56,Spanish,PayPal,2024-12-25 00:09:20,"6230 Jamie Rapids, Brucechester, MN 89709"
+C00042,Brad Washington,nthompson@example.net,467-804-3856,2023-09-23,APAC,896,Inactive,2025-03-17 15:55:26,German,Credit Card,2025-04-30 00:02:09,"5480 Johnson Spring Apt. 508, Lake Monica, FM 80264"
+C00043,Austin Walsh,epeterson@example.net,001-455-507-7237,2025-04-22,APAC,550,Active,2025-06-04 16:02:17,German,Bank Transfer,2024-12-19 04:08:21,"4514 Johnson Square Apt. 334, Jenniferside, NV 88744"
+C00044,Richard Perry,aholder@example.org,+1-825-871-5670x00612,2023-11-08,US,290,Active,2024-11-29 23:07:11,English,Bank Transfer,2025-06-20 14:57:00,"085 Gamble Path Apt. 601, North Jenniferville, CO 21841"
+C00045,Dr. Donald Bridges,awong@example.org,532-274-5129,2024-11-02,APAC,727,Suspended,2024-12-29 20:02:03,Chinese,Credit Card,2025-04-03 13:15:05,"263 Davidson Estate, Fergusonland, NV 03175"
+C00046,Amanda Perez,susan46@example.com,7959616827,2024-10-05,APAC,915,Active,2025-03-20 16:42:14,Chinese,PayPal,2024-10-26 06:38:20,"62464 Jamie Plains Apt. 295, West James, RI 47198"
+C00047,William Thomas,martha65@example.org,8076807128,2023-08-21,EU,23,Suspended,2024-06-29 23:11:43,French,Credit Card,2025-02-15 19:10:12,"89086 Paul Plains Apt. 447, New Angela, CT 63440"
+C00048,Angelica Brown,amandabradshaw@example.org,001-759-297-3284,2024-06-17,CA,562,Inactive,2024-12-01 16:25:05,French,PayPal,2024-10-15 08:36:30,"3451 Mitchell Haven, Brittanyburgh, HI 91653"
+C00049,Walter Woods,yvette44@example.net,292.681.4190,2025-06-08,UK,804,Inactive,2025-01-06 20:47:35,Chinese,Bank Transfer,2025-03-12 16:13:31,"58899 Hernandez Lane, Cookview, MO 18692"
+C00050,Cassandra Lopez,gregory72@example.com,489-868-3175x4829,2023-09-14,US,882,Active,2025-03-28 10:37:05,German,Bank Transfer,2025-03-02 12:50:35,"75417 Claudia Estates Suite 885, New Tylerland, NY 10496"
+C00051,Jamie Rocha,lisa30@example.com,554-415-4214,2024-11-21,UK,664,Inactive,2024-09-18 17:31:34,French,PayPal,2025-01-18 17:13:15,"35417 Justin Drives Suite 759, Port Josephview, NH 87348"
+C00052,Kristy Buchanan,tallen@example.org,608-984-9194x245,2025-01-10,UK,594,Suspended,2024-07-22 04:10:51,English,Bank Transfer,2025-06-20 19:31:57,"6289 Gordon Heights, Jacksonchester, TX 02512"
+C00053,Carolyn Shaffer,bradley50@example.org,001-257-299-4300,2024-08-18,CA,498,Active,2025-01-06 18:53:09,German,Credit Card,2025-05-29 06:54:44,"3471 Weaver Orchard, Travismouth, WA 12667"
+C00054,John Rivers,sferguson@example.org,783.548.9964,2025-01-19,CA,807,Suspended,2024-10-25 08:29:13,English,Credit Card,2024-10-13 12:47:12,"6011 David Walk Apt. 977, Deanborough, OH 86507"
+C00055,Candace Neal,nathaniellewis@example.net,647.989.0256,2025-01-04,UK,121,Active,2025-03-30 14:54:44,Chinese,Credit Card,2024-07-15 17:19:20,"9490 Walker Hills Suite 386, Andrewview, WI 45745"
+C00056,Jade Kirby,aaron93@example.com,(934)377-7082,2025-05-26,US,591,Active,2025-04-20 12:56:45,English,Credit Card,2025-02-21 03:16:34,"8637 Anna Highway Suite 361, North Tamiside, WV 60143"
+C00057,Nicholas Estrada,stewartmarissa@example.org,274.879.9197,2024-11-15,UK,621,Inactive,2024-11-15 23:08:17,Chinese,Credit Card,2024-07-25 12:33:01,"6173 Woods Locks, Johntown, MA 46961"
+C00058,Kenneth Becker,whitneyochoa@example.net,(909)832-8532x8813,2025-02-21,EU,168,Suspended,2024-08-05 20:11:29,French,Credit Card,2024-10-30 22:20:08,"143 Salas Brooks, New Jenniferview, IA 58585"
+C00059,Lisa Sullivan,courtney68@example.org,+1-844-915-0289x228,2024-10-23,UK,76,Suspended,2025-04-24 04:15:51,Spanish,Credit Card,2024-08-11 07:43:19,"4668 Beth Lakes Suite 046, Hessberg, MT 04640"
+C00060,Juan Williams,garywells@example.com,(850)217-0984x079,2023-09-19,CA,499,Suspended,2025-04-27 02:38:13,English,Credit Card,2025-01-08 14:49:03,"PSC 5181, Box 1141, APO AE 09288"
+C00061,Jennifer King,maysmatthew@example.org,620.657.4133,2023-10-17,US,394,Suspended,2024-12-21 23:09:44,French,PayPal,2024-11-30 04:43:36,"6976 Norma Club Apt. 847, Erikahaven, NH 71211"
+C00062,James Wise,brian21@example.org,(265)820-2897x118,2025-03-19,EU,394,Inactive,2025-05-19 18:18:40,German,Credit Card,2025-05-11 18:31:04,"1223 Moore Pines Suite 839, East Danielland, FM 89921"
+C00063,Evan Smith,paul24@example.com,+1-773-924-7859x6491,2024-05-07,EU,756,Inactive,2024-10-19 01:19:50,French,Bank Transfer,2024-08-19 02:31:28,"03459 Romero Squares Apt. 720, Gibsonview, IA 32751"
+C00064,Brandy Wilson,josephjamie@example.net,247.709.8146,2024-08-23,UK,665,Inactive,2025-06-24 02:11:07,French,Bank Transfer,2025-03-28 07:05:29,"5896 Preston Lane Apt. 597, Kruegershire, ND 02655"
+C00065,Katherine Green,deniserocha@example.org,468.812.1211x92458,2024-11-15,EU,837,Active,2025-01-23 14:01:33,English,Credit Card,2025-02-18 07:00:48,"89487 Shelby Shoals Apt. 223, North Lindaburgh, FL 52834"
+C00066,Morgan Stewart,stephanie42@example.net,+1-639-938-3871x841,2024-10-20,APAC,204,Suspended,2024-07-19 15:51:20,Chinese,PayPal,2025-05-04 08:51:46,"857 Mercedes Gateway, Kirkburgh, PA 24068"
+C00067,Debra Ferguson,miranda16@example.com,001-224-679-6825x87976,2025-06-12,CA,187,Active,2025-05-24 19:39:55,Spanish,Credit Card,2024-11-18 06:10:23,"3898 Martinez Wall Suite 882, Johnnyfort, DE 78715"
+C00068,Carl Harris,jacqueline93@example.net,715.205.4735x162,2024-12-21,CA,464,Inactive,2024-11-20 11:58:40,English,PayPal,2024-07-18 02:27:33,"6707 Burke Track Suite 994, Jonesfurt, NY 78363"
+C00069,Chad Jimenez,caseyrandy@example.net,001-400-331-7552,2025-02-28,EU,276,Suspended,2025-04-19 17:12:43,English,PayPal,2025-04-18 20:52:53,"USNV Montgomery, FPO AP 81979"
+C00070,Jacqueline Parrish,richard61@example.org,+1-701-820-2273x4377,2025-03-21,CA,30,Inactive,2024-12-25 15:26:15,English,Bank Transfer,2024-08-12 14:43:14,"1479 Walker Vista Apt. 221, Port Shannon, UT 45926"
+C00071,Teresa Parker,cwright@example.com,976-270-3372x23466,2024-03-18,APAC,494,Inactive,2025-02-25 10:36:59,English,Bank Transfer,2025-03-26 02:00:44,"Unit 0566 Box 0284, DPO AP 44415"
+C00072,Nicholas Ortiz,burnsdenise@example.net,001-513-325-9141x2123,2023-09-18,EU,494,Inactive,2024-12-24 22:11:55,English,Credit Card,2024-10-25 01:38:52,"24478 Jenna Roads Apt. 697, South Ashley, KY 46549"
+C00073,Jonathan Gregory,johnsoncheryl@example.org,(445)694-6223,2024-01-12,CA,533,Inactive,2024-09-05 07:38:39,French,PayPal,2024-09-22 19:07:41,"3258 Nathan Squares Suite 896, Michaelville, IA 27470"
+C00074,Rebecca Quinn,keith55@example.com,368-707-5779,2024-04-14,EU,238,Inactive,2025-01-27 08:43:19,Chinese,Credit Card,2024-07-08 10:42:02,"21817 Michael Canyon Suite 086, North Rhonda, OR 74379"
+C00075,Nicole Carter,vazquezandrew@example.net,001-430-327-4602x402,2024-10-08,EU,848,Suspended,2024-07-26 01:07:55,English,Bank Transfer,2025-02-12 20:23:56,"34961 John Groves, Gregoryburgh, ND 84000"
+C00076,Stephen Watson,andrea79@example.org,+1-962-713-7531x599,2024-08-01,APAC,148,Inactive,2025-05-01 09:45:15,Chinese,Credit Card,2025-04-08 01:08:55,"610 Kelsey Ford, New Stephanie, WY 19315"
+C00077,Amanda Scott MD,bwhitaker@example.org,(742)956-6781x007,2025-03-03,CA,469,Active,2024-08-07 15:15:39,French,Credit Card,2024-07-27 07:12:26,"199 Barbara Well Apt. 843, West James, NY 21237"
+C00078,Nicole Griffin,miguelrodriguez@example.com,+1-530-999-4213x24011,2024-11-19,APAC,873,Inactive,2025-03-08 15:11:52,English,Credit Card,2025-01-22 07:25:20,"93188 Hanna Lane Suite 373, Kimberlyfurt, LA 54905"
+C00079,Justin Richard,guerrajames@example.org,202.450.6641x5127,2024-07-11,UK,497,Active,2024-10-03 15:03:55,Chinese,Credit Card,2024-12-13 06:52:03,"4848 Roberts Drive, Josephbury, LA 23549"
+C00080,Jermaine Suarez,joecampbell@example.org,3536180216,2023-11-18,CA,382,Suspended,2025-06-03 23:57:48,German,PayPal,2024-12-28 08:32:15,"25972 Jared Shore Apt. 220, Tracymouth, VT 39635"
+C00081,Brandon Lynch,gallen@example.net,644.561.2889x849,2024-09-02,EU,513,Inactive,2025-03-20 09:37:46,German,Credit Card,2025-01-20 16:43:51,"55450 Richardson Underpass, Ericmouth, SC 03421"
+C00082,Alexandria Salinas,rachelhendrix@example.com,877-829-8851x067,2024-11-18,US,83,Active,2025-01-23 18:39:11,Chinese,Bank Transfer,2024-07-17 03:45:54,"2782 Monica Rapids, Victoriaview, FL 93334"
+C00083,Brittany Baker,stevenschristine@example.net,+1-359-771-1364x999,2025-01-19,US,679,Active,2024-11-02 12:45:42,French,Bank Transfer,2025-03-03 00:49:38,"2300 Sally Canyon, West Heathermouth, MH 49935"
+C00084,Eric Shaffer,mitchell99@example.net,933.962.9737,2023-07-02,US,496,Suspended,2024-09-10 19:45:13,German,Credit Card,2024-11-24 07:40:53,"8809 Meadows Valley Suite 150, Salastown, MI 45532"
+C00085,Shawna Carrillo,hoffmankelly@example.com,9125926592,2024-10-06,US,662,Active,2024-07-10 00:37:45,German,Credit Card,2025-05-13 16:52:38,"728 Rachael Forge, Ashleyhaven, CA 03033"
+C00086,Anthony Johnson,shane87@example.net,+1-696-295-1608x538,2024-03-05,APAC,275,Active,2025-02-04 23:27:23,Spanish,Credit Card,2025-03-24 09:50:49,"11037 Stephens Drive, South Juanton, WA 24612"
+C00087,Andrew Reed,jhamilton@example.com,+1-768-439-4661x80822,2025-06-16,APAC,119,Suspended,2024-08-18 18:15:27,Chinese,PayPal,2024-09-27 20:26:29,"146 Nicole Mall, Port Nathan, CA 36266"
+C00088,Kurt Howard,nancysalinas@example.org,323-275-3888,2023-08-05,EU,67,Active,2025-02-20 19:07:56,English,PayPal,2024-07-20 01:06:43,"760 Mckenzie Place Apt. 723, Dudleyfurt, NY 23911"
+C00089,Karen Banks,thomasjohnson@example.net,+1-742-806-9400,2023-10-17,EU,577,Active,2024-12-19 02:10:36,German,Bank Transfer,2024-11-29 01:15:19,"6249 Goodman Club, Lake Tonyaland, ND 16955"
+C00090,Samantha Mann,christinapage@example.org,001-385-676-4290x0883,2023-07-08,APAC,652,Inactive,2025-03-29 03:59:43,German,Credit Card,2025-05-08 20:58:55,"936 George Avenue Suite 528, Port Chadhaven, NH 82946"
+C00091,Mr. Randall Patterson,denisethompson@example.net,496-945-7488x608,2024-03-03,APAC,102,Inactive,2024-11-11 14:35:20,French,Bank Transfer,2024-09-27 23:13:35,"6740 Hernandez Trail, New Matthew, MI 80956"
+C00092,Katrina Gibbs,williamslisa@example.net,850-994-3882,2024-03-21,US,155,Inactive,2024-07-04 01:02:53,Chinese,PayPal,2024-12-27 12:00:14,"073 Michael Row Suite 897, Bensonstad, AR 98325"
+C00093,Jennifer Acosta,qjensen@example.com,(582)907-7848,2023-12-06,US,311,Suspended,2025-03-04 19:06:18,Spanish,Bank Transfer,2024-10-04 11:15:57,"564 Rhonda Valley, Tuckerport, NM 07546"
+C00094,Rebecca Griffin,nathanielwarren@example.com,481.566.0769x2839,2025-04-22,UK,797,Suspended,2024-10-15 15:20:04,Chinese,Credit Card,2024-07-15 19:20:54,"571 Joe Points Apt. 852, South Melanie, KY 37349"
+C00095,Matthew Weaver,ufloyd@example.net,8058791281,2023-11-10,UK,424,Active,2024-08-06 03:48:01,Spanish,Bank Transfer,2025-02-23 23:55:46,"6379 Hays Crossroad Apt. 564, West Tiffany, MI 91361"
+C00096,William Kennedy,gbarnes@example.org,001-664-511-9568x6082,2025-06-16,EU,334,Suspended,2024-11-09 14:09:57,German,Bank Transfer,2025-04-18 23:44:19,"PSC 5215, Box 9447, APO AA 54155"
+C00097,Susan Rivera,darius31@example.net,212-500-9270,2024-03-10,APAC,492,Inactive,2024-12-13 12:36:20,English,PayPal,2025-05-05 03:16:02,"Unit 3705 Box 9070, DPO AE 08212"
+C00098,Lindsay Pacheco,omarpoole@example.net,9917823624,2023-08-06,EU,136,Inactive,2024-09-27 02:09:54,Spanish,Bank Transfer,2024-10-24 18:50:11,"98319 Gilmore Fields Apt. 332, West Patriciaton, MH 50745"
+C00099,Robert Wagner,bbishop@example.com,(245)239-3823x40488,2024-04-19,APAC,886,Inactive,2025-01-08 12:48:43,German,Bank Transfer,2025-01-12 20:33:47,"USCGC Mendoza, FPO AP 51760"
+C00100,Benjamin Hartman,hbryant@example.net,628.626.3536x68974,2025-01-15,US,42,Suspended,2024-12-24 15:06:57,French,Bank Transfer,2025-01-27 06:39:03,"6042 Brian Curve, North Justinborough, TN 38033"
+C00004,William Wilson,markcook@example.net,+1-591-669-3947,2023-12-08,UK,426,Suspended,2025-02-09 19:35:11,Spanish,Bank Transfer,2024-07-10 21:22:17,"1015 Jennifer Forest Apt. 461, Butlerview, GA 85502"
