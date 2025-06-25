@@ -75,7 +75,21 @@ clickstream = [
         "session_id":  fake.uuid4(),
          "Action": random.choice(["view", "add_to_cart", "remove_from_cart", "checkout", "search"]),
         "timestamp": fake.date_time_between(start_date="-30d", end_date="now").isoformat(),
-        "session_duration_seconds": random.randint(60, 600)  # Duration in seconds
+        "session_duration_seconds": random.randint(60, 600),  # Duration in seconds
+        "referrer": random.choice(["Google", "Facebook", "Direct", "Email", "Other"]),
+        "device_type": random.choice(["Desktop", "Mobile", "Tablet"]),  
+        "browser": random.choice(["Chrome", "Firefox", "Safari", "Edge", "Internet Explorer"]),
+        "location": fake.city(),
+        "ip_address": fake.ipv4(),
+        "search_query": fake.sentence(nb_words=3) if random.random() < 0.5 else None,  # 50% chance of having a search query
+        "cart_value": round(random.uniform(0, 1000), 2) if random.random() < 0.5 else None,  # 50% chance of having a cart value
+        "payment_method": random.choice(["Credit Card", "PayPal", "Bank Transfer"]),
+        "order_id": f"O{random.randint(1, 500):05d}" if random.random() < 0.3 else None,  # 30% chance of having an order ID
+        "transaction_amount": round(random.uniform(10, 500), 2) if random.random() < 0.3 else None,  # 30% chance of having a transaction amount
+        "coupon_code": fake.bothify(text='COUPON-???-###') if random.random() < 0.2 else None,  # 20% chance of having a coupon code
+        "loyalty_points_used": random.randint(0, 100) if random.random() < 0.2 else None,  # 20% chance of using loyalty points
+        "feedback": fake.sentence(nb_words=5) if random.random() < 0.1 else None,  # 10% chance of having feedback
+        "browser_language": random.choice(["en-US", "fr-FR", "es-ES", "de-DE", "zh-CN"]) if random.random() < 0.5 else None  # 50% chance of having a browser language
     }
     for _ in range(num_records)
 ]
