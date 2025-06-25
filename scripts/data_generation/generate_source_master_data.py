@@ -33,7 +33,25 @@ def generate_customers(n=100):
 
             "Phone": [fake.phone_number() for _ in range(n)],
 
-            "SignupDate": [fake.date_between(start_date='-2y', end_date='-1d') for _ in range(n)]
+            "SignupDate": [fake.date_between(start_date='-2y', end_date='-1d') for _ in range(n)],
+            
+            "Region": [random.choice(["US", "EU", "APAC", "UK", "CA"]) for _ in range(n)],
+            
+            "LoyaltyPoints": [random.randint(0, 1000) for _ in range(n)],
+            
+            "AccountStatus": [random.choice(["Active", "Inactive", "Suspended"]) for _ in range(n)],
+            
+            "LastLogin": [fake.date_time_between(start_date='-1y', end_date='now') for _ in range(n)],
+            
+            "PreferredLanguage": [random.choice(["English", "Spanish", "French", "German", "Chinese"]) for _ in range(n)],
+            
+            "PreferredPaymentMethod": [random.choice(["Credit Card", "PayPal", "Bank Transfer"]) for _ in range(n)],
+            
+            "LastPurchaseDate": [fake.date_time_between(start_date='-1y', end_date='now') for _ in range(n)],
+            
+            "Address": [fake.address().replace("\n", ", ") for _ in range(n)]
+            
+          
 
         })
 
@@ -53,7 +71,9 @@ def generate_products(n=50):
 
             "Category": [random.choice(["Electronics", "Books", "Clothing", "Home", "Toys"]) for _ in range(n)],
 
-            "Price": [round(random.uniform(10, 500), 2) for _ in range(n)]
+            "Price": [round(random.uniform(10, 500), 2) for _ in range(n)],
+            
+
 
         })
 

@@ -49,7 +49,20 @@ def generate_orders(n=500):
             "Quantity": quantity,
             "TotalAmount": total,  # <-- Use calculated total
             "OrderDate": order_date.strftime("%Y-%m-%d %H:%M:%S"),
-            "region": [random.choice(["US", "EU", "APAC", "UK"]) for _ in range(n)]
+            "region": [random.choice(["US", "EU", "APAC", "UK", "CA"]) for _ in range(n)][i],
+            "PaymentMethod": random.choice(["Credit Card", "PayPal", "Bank Transfer"]),
+            "OrderStatus": random.choice(["Completed", "Pending", "Cancelled"]),
+            "ShippingAddress": fake.address().replace("\n", ", "),
+            "BillingAddress": fake.address().replace("\n", ", "),
+            "Discount": round(random.uniform(0, 50), 2),  # Random discount,
+            "Tax": round(total * random.uniform(0.05, 0.15), 2),  # Random tax between 5% and 15%,
+            "ShippingCost": round(random.uniform(5, 20), 2),  # Random shipping cost,
+            "TrackingNumber": fake.uuid4(),
+            "DeliveryDate": (order_date + pd.Timedelta(days=random.randint(1, 10))).strftime("%Y-%m-%d %H:%M:%S"),
+            "ReturnStatus": random.choice(["Not Returned", "Returned", "Refunded"]),
+            "ReturnReason": random.choice(["Damaged", "Wrong Item", "No Longer Needed", "Other"]),
+            "Rating": random.randint(1, 5),  # Random rating between 1 and 5,     
+            "Review": fake.sentence(nb_words=10)  # Random review text
         })
     return pd.DataFrame(data)
 
@@ -75,8 +88,20 @@ def generate_inventory(products):
             "ProductID": row["ProductID"],
             "StockLevel": random.randint(0, 300),
             "ReorderLevel": random.randint(20, 100),
-            "LastRestockDate": fake.date_between(start_date="-6M", end_date="-7d").strftime("%Y-%m-%d"),
-            "Supplier": fake.company()
+            "LastRestockDate": fake.date_between(start_date="-6M", end_date="-7d"), #.strftime("%Y-%m-%d"),
+            "Supplier": fake.company(),
+            "WarehouseLocation": fake.city(),
+            "LeadTimeDays": random.randint(1, 30),
+            "ExpirationDate": fake.date_between(start_date="-1M", end_date="now"), #.strftime("%Y-%m-%d"),
+            "BatchNumber": fake.bothify(text='B###-???'),   
+            "QualityCheckStatus": random.choice(["Passed", "Failed"]),
+            "QualityCheckDate": fake.date_between(start_date="-1M", end_date="now"), #.strftime("%Y-%m-%d"),
+            "LastUpdated": fake.date_time_between(start_date="-1M", end_date="now").strftime("%Y-%m-%d %H:%M:%S"),
+            "SupplierContact": fake.phone_number(), 
+            "SupplierEmail": fake.email(),
+            "WarehouseManager": fake.name(),
+            "WarehouseCapacity": random.randint(1000, 5000),
+            "StockValue": round(row["Price"] * random.randint(0, 300), 2)  # Stock value based on price and stock level  
         })
     return pd.DataFrame(data)
 
@@ -109,4 +134,4 @@ if __name__ == "__main__":
 
 
 
-    print("Sample datasets generated successfully.")
+    print(" Sample datasets generated successfully. ")
