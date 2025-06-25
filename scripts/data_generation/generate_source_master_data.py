@@ -62,22 +62,53 @@ def generate_customers(n=100):
 
 
 def generate_products(n=50):
+    category_templates = {
+        "Electronics": [
+            lambda: f"{fake.word().capitalize()} Headphones",
+            lambda: f"{fake.word().capitalize()} Smartphone",
+            lambda: f"{fake.word().capitalize()} Laptop",
+            lambda: f"{fake.word().capitalize()} Camera"
+        ],
+        "Books": [
+            lambda: f"{fake.word().capitalize()} Tales",
+            lambda: f"The Art of {fake.word().capitalize()}",
+            lambda: f"{fake.word().capitalize()} Guide",
+            lambda: f"{fake.word().capitalize()} Stories"
+        ],
+        "Clothing": [
+            lambda: f"{fake.color_name()} T-Shirt",
+            lambda: f"{fake.color_name()} Jeans",
+            lambda: f"{fake.color_name()} Jacket",
+            lambda: f"{fake.color_name()} Dress"
+        ],
+        "Home": [
+            lambda: f"{fake.word().capitalize()} Lamp",
+            lambda: f"{fake.word().capitalize()} Sofa",
+            lambda: f"{fake.word().capitalize()} Table",
+            lambda: f"{fake.word().capitalize()} Chair"
+        ],
+        "Toys": [
+            lambda: f"{fake.word().capitalize()} Puzzle",
+            lambda: f"{fake.word().capitalize()} Doll",
+            lambda: f"{fake.word().capitalize()} Car",
+            lambda: f"{fake.word().capitalize()} Blocks"
+        ]
+    }
 
-        return pd.DataFrame({
+    categories = []
+    product_names = []
+    for _ in range(n):
+        category = random.choice(list(category_templates.keys()))
+        name = random.choice(category_templates[category])()
+        categories.append(category)
+        product_names.append(name)
 
-            "ProductID": [f"P{i+1:04d}" for i in range(n)],
-
-            "ProductName": [fake.word().capitalize() + " " + fake.color_name() for _ in range(n)],
-
-            "Category": [random.choice(["Electronics", "Books", "Clothing", "Home", "Toys"]) for _ in range(n)],
-
-            "Price": [round(random.uniform(10, 500), 2) for _ in range(n)],
-            
-
-
-        })
-
-
+    return pd.DataFrame({
+        "ProductID": [f"P{i+1:04d}" for i in range(n)],
+        "ProductName": product_names,
+        "Category": categories,
+        "Price": [round(random.uniform(10, 500), 2) for _ in range(n)],
+    })
 
 # Main execution
 
