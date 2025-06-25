@@ -1,0 +1,52 @@
+ProductID,StockLevel,ReorderLevel,LastRestockDate,Supplier
+P0001,-50,64,2025-06-16,Rodriguez Inc
+P0002,172,60,Yesterday,Marshall Ltd
+P0003,245,40,2025-02-15,"Simpson, Parsons and Davis"
+P0004,54,83,2025-02-16,Blanchard-Mayer
+P0005,156,94,2025-01-28,"Anderson, Patton and Spears"
+P0006,280,100,2025-06-12,Price-Boyd
+P0007,50,51,2025-04-19,Dyer Group
+P0008,294,82,2025-01-17,Cox-Brown
+P0009,81,30,2025-01-24,"Mason, Schaefer and Prince"
+P0010,161,91,2025-03-30,Smith-Mckenzie
+P0011,251,48,2025-04-06,Murray Ltd
+P0012,41,31,2025-02-10,Dudley-Velez
+P0013,54,78,2025-03-09,"White, Rivers and Benton"
+P0014,180,42,2025-03-11,Leblanc PLC
+P0015,27,76,2025-05-18,"Rivera, Gates and Everett"
+P0016,55,40,2025-05-17,Miller and Sons
+P0017,184,52,2025-06-01,Phillips-Zuniga
+P0018,42,37,2025-02-05,Smith-Graham
+P0019,50,77,2025-04-21,Ramsey-Anderson
+P0020,156,51,2024-12-29,Nelson Group
+P0021,249,41,2025-04-25,"Cook, Evans and Mendoza"
+P0022,170,88,2025-02-16,Matthews and Sons
+P0023,87,93,2025-01-26,Black LLC
+P0024,247,40,2025-03-01,"Martin, Chase and Rogers"
+P0025,289,20,2025-06-08,Wallace and Sons
+P0026,300,48,2025-05-30,"Rodriguez, Griffin and Ramos"
+P0027,198,32,2025-04-14,Marshall-Johnson
+P0028,125,52,2025-05-27,"Melton, Brown and Francis"
+P0029,82,83,2025-01-08,"Cox, Mccormick and Davis"
+P0030,26,76,2025-02-01,"Washington, Davis and Evans"
+P0031,136,25,2025-01-03,Roberts Ltd
+P0032,145,72,2025-03-24,"Griffith, Marshall and Burke"
+P0033,272,58,2025-01-24,Carrillo Inc
+P0034,247,25,2025-04-04,Hendrix-Warren
+P0035,206,83,2025-03-23,Campbell-Jones
+P0036,30,74,2025-03-27,Daniel-Wright
+P0037,198,32,2025-04-19,Hays-Anderson
+P0038,131,37,2025-01-27,Kim-Pratt
+P0039,199,66,2025-05-27,Green and Sons
+P0040,47,54,2025-03-02,"Lam, Saunders and Henson"
+P0041,34,76,2025-01-23,Bell LLC
+P0042,105,98,2025-02-16,Duffy-Kennedy
+P0043,6,69,2025-03-13,Young Group
+P0044,200,33,2025-01-05,Silva-Ford
+P0045,206,23,2024-12-25,Brown Inc
+P0046,224,46,2025-04-19,Brown-Greene
+P0047,99,79,2025-06-15,Jones PLC
+P0048,67,72,2025-06-01,Gilmore-Lee
+P0049,280,59,2025-04-09,Harris Ltd
+P0050,207,92,2025-01-23,"Rodriguez, Barry and Brown"
+P0003,245,40,2025-02-15,"Simpson, Parsons and Davis"
