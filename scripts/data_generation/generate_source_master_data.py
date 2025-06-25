@@ -90,10 +90,9 @@ if __name__ == "__main__":
 
 
 
+    customers_df.to_csv("data/sample_data/customers_dirty.csv", index=False)
 
-    customers_df.to_csv("customers_dirty.csv", index=False)
-
-    products_df.to_csv("products_dirty.csv", index=False)
+    products_df.to_csv("data/sample_data/products_dirty.csv", index=False)
 
 
 
