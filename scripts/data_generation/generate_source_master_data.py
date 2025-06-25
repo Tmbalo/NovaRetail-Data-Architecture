@@ -31,6 +31,8 @@ def generate_customers(n=100):
 
             "Email": [fake.email() for _ in range(n)],
 
+            "Gender": [random.choice(["Male", "Female", "Other"]) for _ in range(n)],
+
             "Phone": [fake.phone_number() for _ in range(n)],
 
             "SignupDate": [fake.date_between(start_date='-2y', end_date='-1d') for _ in range(n)],
