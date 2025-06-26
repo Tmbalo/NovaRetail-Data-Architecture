@@ -1,0 +1,150 @@
+{
+  "schema": {
+    "version": "1",
+    "jsonSchema": {
+      "bsonType": [
+        "object"
+      ],
+      "properties": {
+        "session_id": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "Action": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "transaction_amount": {
+          "bsonType": [
+            "null",
+            "double"
+          ]
+        },
+        "cart_value": {
+          "bsonType": [
+            "null",
+            "double",
+            "int"
+          ]
+        },
+        "user_id": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "referrer": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "payment_method": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "ip_address": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "browser": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "location": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "coupon_code": {
+          "bsonType": [
+            "null",
+            "string"
+          ]
+        },
+        "search_query": {
+          "bsonType": [
+            "null",
+            "string"
+          ]
+        },
+        "browser_language": {
+          "bsonType": [
+            "string",
+            "null"
+          ]
+        },
+        "device_type": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "loyalty_points_used": {
+          "bsonType": [
+            "null",
+            "int"
+          ]
+        },
+        "order_id": {
+          "bsonType": [
+            "null",
+            "string"
+          ]
+        },
+        "_id": {
+          "bsonType": [
+            "objectId"
+          ]
+        },
+        "timestamp": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "session_duration_seconds": {
+          "bsonType": [
+            "int"
+          ]
+        },
+        "ProductID": {
+          "bsonType": [
+            "string"
+          ]
+        },
+        "feedback": {
+          "bsonType": [
+            "null",
+            "string"
+          ]
+        }
+      },
+      "additionalProperties": false,
+      "required": [
+        "_id",
+        "user_id",
+        "ProductID",
+        "session_id",
+        "Action",
+        "timestamp",
+        "session_duration_seconds",
+        "referrer",
+        "device_type",
+        "browser",
+        "location",
+        "ip_address",
+        "search_query",
+        "cart_value",
+        "payment_method",
+        "order_id",
+        "transaction_amount",
+        "coupon_code",
+        "loyalty_points_used",
+        "feedback",
+        "browser_language"
+      ]
+    }
+  }
+}
