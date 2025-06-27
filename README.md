@@ -91,7 +91,11 @@ NovaRetail-Data-Architecture/
 - **Marketing Lead:** Seeks customer segmentation and clickstream funnel tracking
 - **CIO:** Focused on GDPR compliance, data governance, and security
 
+📬 [Stakeholder Interviews](docs/stakeholder_requests.md)
+
+
 ---
+
 
 ## 📬 Feedback & Collaboration
 
