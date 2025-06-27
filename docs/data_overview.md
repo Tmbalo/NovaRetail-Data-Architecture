@@ -119,3 +119,7 @@ clickstream.json
 
 inventory.csv
 └── product_id → products.csv
+
+
+Prepared by: Thozamile Mbalo
+Role: Data Solutions Architect
