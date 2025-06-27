@@ -1,0 +1,1 @@
+ProductID,StockLevel,ReorderLevel,LastRestockDate,Supplier,WarehouseLocation,LeadTimeDays,ExpirationDate,BatchNumber,QualityCheckStatus,QualityCheckDate,LastUpdated,SupplierContact,SupplierEmail,WarehouseManager,WarehouseCapacity,StockValue
