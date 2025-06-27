@@ -1,6 +1,6 @@
 # 📊 NovaRetail Sample Data Overview
 
-This document describes the synthetic sample data provided under `/data/sample`. These datasets simulate realistic transactional, behavioral, and operational records across multiple source systems for NovaRetail.
+This document describes the synthetic sample data provided under `/data/sample_data`. These datasets simulate realistic transactional, behavioral, and operational records across multiple source systems for NovaRetail.
 
 ---
 
@@ -94,7 +94,7 @@ This document describes the synthetic sample data provided under `/data/sample`.
 ## 🛒 5. products.csv
 
 - **Source System**: Product Master
-- **Row Count**: ~100
+- **Row Count**: ~40
 - **Primary Keys**: `product_id`
 
 ### Columns:
