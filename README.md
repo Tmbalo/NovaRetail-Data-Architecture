@@ -1,40 +1,108 @@
-# NovaRetail Data Architecture
-A cloud-native data platform for real-time retail analytics, integrating transactional, clickstream, and inventory data to enable sales and inventory insights while ensuring GDPR compliance.
+# 🛒 NovaRetail Data Architecture Project
 
-## Project Overview
-**Objective**: Designed a scalable data architecture for NovaRetail, a fictional e-commerce retailer, to consolidate disparate data sources and provide real-time analytics.
-- **Data Sources**: SQL Server (orders), MongoDB (clickstream), CSV (inventory).
-- **Outcomes**: Improved query performance by 60%, enabled real-time inventory tracking, and ensured GDPR compliance.
-- **Technologies**: Azure (Synapse, Data Factory, Data Lake, Purview), Databricks (Spark), Draw.io, Airflow, Power BI, Python, SQL.
+## 🚀 Project Overview
+NovaRetail is a simulated cloud-native data architecture project for a retail business. It demonstrates real-time analytics across transactional, clickstream, and inventory data sources using the Medallion Architecture (Bronze, Silver, Gold) and enterprise-grade governance.
 
-## Architecture
-![Architecture Diagram](docs/novaretail_data_architecure1.drawio.png)
+This project reflects the responsibilities of a Data Solutions Architect—covering ingestion, transformation, modeling, governance, and analytics in Azure and Databricks.
 
-## Repository Structure
-- `data/`: Synthetic datasets and governance reports.
-- `scripts/`: Python, SQL, Airflow, and ADF scripts.
-- `docs/`: Documentation, diagrams, and plans.
+---
 
-## Key Documentation
-- [Requirements Analysis](docs/requirements_analysis.md)
-- [Data Management Approach](docs/data_management_approach.md)
-- [Naming Conventions](docs/naming_convention.md)
-- [Project Plan](docs/project_plan.md)
+## 🧱 Architecture
 
-## Setup Instructions
-1. Clone the repository: `git clone https://github.com/Tmbalo/NovaRetail-Data-Architecture.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Follow task instructions in Notion.
+![NovaRetail Architecture](docs/architecture_diagram.png)
 
-## Key Features
-- **Data Modeling**: Star schema designed with PowerDesigner for Azure Synapse Analytics.
-- **ELT Pipelines**: Built with Azure Data Factory and orchestrated via Airflow.
-- **Big Data Processing**: Processed 1M+ clickstream records using PySpark on Databricks.
-- **Governance**: Implemented Azure Purview for data lineage and GDPR compliance.
-- **Analytics**: Delivered Power BI dashboards for sales and inventory insights.
+- **Bronze Layer:** Raw ingestion of transactional, clickstream, and inventory data
+- **Silver Layer:** Cleansed and joined data with standard formats and enhanced quality
+- **Gold Layer:** Star schema (fact/dim) model ready for analytics in Synapse and Power BI
 
-## Contact
-For questions, reach out via [LinkedIn](https://www.linkedin.com/in/thozamile-mbalo-97a33198/) or [email](tmbalo02@gmail.com).
+---
 
-## License
+## 🧰 Tech Stack
+
+| Area | Tools & Tech |
+|------|--------------|
+| Cloud Platform | Azure |
+| Storage | Azure Data Lake |
+| Processing | Azure Data Factory, Databricks (Spark), Python |
+| Modeling | Azure Synapse Analytics |
+| Governance | Azure Purview |
+| Orchestration | Airflow |
+| Visualization | Power BI |
+| Data Generation | Python Faker |
+
+---
+
+## 📁 Repository Structure
+
+NovaRetail-Data-Architecture/
+│
+├── data_generation/ # Python scripts to generate synthetic source data
+├── data_model/ # Star schema DDLs and data modeling artifacts
+├── pipelines/ # Notebooks and scripts for Bronze, Silver, Gold
+├── docs/ # Architecture diagrams, metadata, governance docs
+├── analytics/ # Power BI dashboards and reports
+├── governance/ # Data dictionary, GDPR compliance documentation
+└── README.md
+
+
+---
+
+## 📊 Business Use Cases
+
+- **Inventory Forecasting** based on daily transactional trends
+- **Clickstream Attribution** to understand product discovery and engagement
+- **Product Recommendation Inputs** using customer and product behavior data
+- **Real-Time Sales Insights** for marketing and ops teams
+
+---
+
+## 🧪 How to Run
+
+> Pre-reqs: Azure account, Databricks workspace, Power BI Desktop
+
+1. Clone the repo
+2. Generate data via `/data_generation/generate_data.py`
+3. Load Bronze using notebooks in `/pipelines/bronze_layer`
+4. Transform Silver and Gold layers via respective notebooks
+5. Connect Power BI to Synapse SQL endpoint
+6. View dashboards in `/analytics`
+
+---
+
+## 🔐 Governance & Compliance
+
+- Azure Purview for metadata cataloging
+- PII classification on `email`, `phone`
+- Access control and lineage documentation in `/governance`
+
+---
+
+## 📈 Sample Outputs
+
+📊 [Click here](analytics/sales_dashboard.pbix) to view the interactive dashboard  
+📄 [Sample Data Dictionary](governance/data_dictionary.xlsx)  
+🗂️ [ER Diagram](docs/star_schema.png)
+
+---
+
+## 👤 Simulated Stakeholders
+
+- **Retail Ops Manager:** Wants real-time stock alerts & supplier dashboards
+- **Marketing Lead:** Seeks customer segmentation and clickstream funnel tracking
+- **CIO:** Focused on GDPR compliance, data governance, and security
+
+📬 [Stakeholder Interviews](docs/stakeholder_requests.md)
+
+
+---
+
+
+## 📬 Feedback & Collaboration
+
+Pull requests and suggestions welcome!  
+Feel free to fork or use for your own architectural learning or interviews.
+
+---
+
+## 📄 License
 MIT License

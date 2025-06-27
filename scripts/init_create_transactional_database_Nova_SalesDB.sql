@@ -39,62 +39,43 @@ GO
 DROP TABLE IF EXISTS [dbo].[customers]
 GO
 CREATE TABLE [dbo].[customers](
-	[CustomerID] [nvarchar](50) NOT NULL,
-	[CustomerName] [nvarchar](50) NOT NULL,
-	[Email] [nvarchar](50) NULL,
-	[Gender] [nvarchar](50) NOT NULL,
-	[Phone] [nvarchar](50) NOT NULL,
-	[SignupDate] [nvarchar](50) NOT NULL,
-	[Region] [nvarchar](50) NOT NULL,
-	[LoyaltyPoints] [nvarchar](50) NOT NULL,
-	[AccountStatus] [nvarchar](50) NOT NULL,
-	[LastLogin] [nvarchar](50) NOT NULL,
-	[PreferredLanguage] [nvarchar](50) NOT NULL,
-	[PreferredPaymentMethod] [nvarchar](50) NOT NULL,
-	[LastPurchaseDate] [nvarchar](50) NOT NULL,
-	[Address] [nvarchar](100) NOT NULL
+	[customer_id] [nvarchar](50) NOT NULL,
+	[customer_name] [nvarchar](50) NOT NULL,
+	[email_pii] [nvarchar](50) NULL,
+	[phone_pii] [nvarchar](50) NULL,
+	[region] [nvarchar](50) NOT NULL,
+	[marketing_consent] [nvarchar](50) NOT NULL
 ) ON [PRIMARY]
 GO
+
 
 DROP TABLE IF EXISTS [dbo].[products]
 GO
 CREATE TABLE [dbo].[products](
-	[ProductID] [nvarchar](50) NOT NULL,
-	[ProductName] [nvarchar](50) NULL,
-	[Category] [nvarchar](50) NOT NULL,
-	[Price] [nvarchar](50) NOT NULL
+	[product_id] [nvarchar](50) NOT NULL,
+	[product_name] [nvarchar](50) NOT NULL,
+	[product_category] [nvarchar](50) NOT NULL,
+	[unit_price] [nvarchar](50) NOT NULL
 ) ON [PRIMARY]
 GO
+
+
 
 
 DROP TABLE IF EXISTS [dbo].[orders]
 GO
 CREATE TABLE [dbo].[orders](
-	[OrderID] [nvarchar](50) NOT NULL,
-	[CustomerID] [nvarchar](50) NOT NULL,
-	[ProductID] [varchar](50) NOT NULL,
-	[Quantity] [nvarchar](50) NOT NULL,
-	[TotalAmount] [nvarchar](50) NOT NULL,
-	[OrderDate] [nvarchar](50) NULL,
+	[order_id] [nvarchar](50) NOT NULL,
+	[customer_id] [nvarchar](50) NOT NULL,
+	[product_id] [nvarchar](50) NOT NULL,
+	[unit_price] [nvarchar](50) NOT NULL,
+	[total_amount] [nvarchar](50) NOT NULL,
+	[order_date] [nvarchar](50) NOT NULL,
 	[region] [nvarchar](50) NOT NULL,
-	[PaymentMethod] [nvarchar](50) NOT NULL,
-	[OrderStatus] [nvarchar](50) NOT NULL,
-	[ShippingAddress] [nvarchar](100) NOT NULL,
-	[BillingAddress] [nvarchar](100) NOT NULL,
-	[Discount] [nvarchar](50) NOT NULL,
-	[Tax] [nvarchar](50) NOT NULL,
-	[ShippingCost] [nvarchar](50) NOT NULL,
-	[TrackingNumber] [nvarchar](50) NOT NULL,
-	[DeliveryDate] [nvarchar](50) NOT NULL,
-	[ReturnStatus] [nvarchar](50) NOT NULL,
-	[ReturnReason] [nvarchar](50) NOT NULL,
-	[Rating] [nvarchar](50) NOT NULL,
-	[Review] [nvarchar](150) NOT NULL
+	[email_pii] [nvarchar](50) NULL,
+	[phone_pii] [nvarchar](50) NULL
 ) ON [PRIMARY]
 GO
-
-
-
 
 
 
